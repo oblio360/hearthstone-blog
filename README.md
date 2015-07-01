@@ -1,0 +1,2 @@
+# hearthstone-blog
+Hearthstone blog.
