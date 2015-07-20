@@ -1,2 +1,1 @@
-# hearthstone-blog
-Hearthstone blog.
+# Dota 2 blog, by oblio@oblio360.com

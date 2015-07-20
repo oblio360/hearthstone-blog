@@ -1,0 +1,20 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:         true
+gems:		  
+- jemoji
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Hearthstone
+tagline:          'Hearthstone blog.'
+description:      'Oblio exploring Hearthstone'
+url:              http://hearthstone.oblio360.com
+
+author:
+  name:           'Constantin Caraivan'
+  url:            https://twitter.com/oblio360
+
+paginate:         5
