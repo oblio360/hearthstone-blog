@@ -1,15 +1,16 @@
 # Dependencies
 markdown:         redcarpet
-gems:		  
+gems:
 - jemoji
+- jekyll-sitemap
 
 # Permalinks
 permalink:        pretty
 
 # Setup
 title:            Hearthstone
-tagline:          'Hearthstone blog.'
-description:      'Oblio exploring Hearthstone'
+tagline:          ''
+description:      ''
 url:              http://hearthstone.oblio360.com
 
 author:
