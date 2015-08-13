@@ -72,18 +72,18 @@ html {
 
 /* Sidebar links */
 .sidebar a {
-  color: #212121;
+  color: #d84315;
 }
 
 /* About section */
 .sidebar-about h1 {
-  color: #212121;
+  color: #d84315;
   margin-top: 0;
   font-size: 2rem;
 }
 
 .sidebar p {
-  color: #212121;
+  color: #d84315;
 }
 
 /* Sidebar nav */
@@ -176,5 +176,5 @@ a.sidebar-nav-item:focus {
 }
 .theme-base .content a,
 .theme-base .related-posts li a:hover {
-  color: #212121;
+  color: #d84315;
 }
