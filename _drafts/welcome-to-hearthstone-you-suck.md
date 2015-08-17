@@ -27,6 +27,10 @@ If you have suggestion for improvements use the comment section below or just co
 page](http://hearthstone.oblio360.com/about)).
 
 * [Required reading](#required-reading)
+  * [Timmy, Johhny and Spike](#player-types)
+  * [Playing to win](#play-to-win)
+
+* [Basics of Hearthstone](#basics)
 
 * [The game and the meta](#game-metagame)
 
@@ -44,25 +48,47 @@ Before we start talking about Hearthstone there are some articles I consider int
 read before going further, the main reason is that this way we'll make sure that we are on the same page and talking
 about the same things.
 
-[Timmy, Johnny, Spike, or the 3 major types of players in
-Magic the Gathering](http://archive.wizards.com/Magic/magazine/article.aspx?x=mtgcom/daily/mr11b)
+##<a name="player-types">Timmy, Johnny and Spike</a>
 
 Hearthstone has been inspired by a card game called [Magic the
 Gathering](https://en.wikipedia.org/wiki/Magic:_The_Gathering) (MTG for short).
-The creators of MTG, Wizards of the Coast, regularly publish articles about the design of MTG. This article is one of
-the most important articles they've published.
+The creators of MTG, Wizards of the Coast, regularly publish articles about the design of MTG.
+["Timmy, Johnny and Spike"](http://archive.wizards.com/Magic/magazine/article.aspx?x=mtgcom/daily/mr11b) is one of the most important articles they've published, where they describe a very important principle
 
-TL;DR:
+**TL;DR:**
 
 * Timmy: big creatures good!
 * Johnny: my 7-card combo did 80 damage!
 * Spike: Winning = everything!
-* A player is a mix of Timmy-Johnny-Spike, and usually 1 side dominates (Timmy 60% + Spike 40%, 20% Timmy + 80% Johnny)
+* A player is a mix of Timmy-Johnny-Spike, and usually 1 side dominates (Timmy 60% + Spike 40%, 20% Timmy + 80% Johnny).
 
-For you as a player it's important to figure out where you are
+For you as a player it's important to figure out what your main focus will be because depending on it you will have to
+make various decisions as how to invest your time and money (Hearthstone can be a really expensive hobby if you're not
+careful).
 
 
-[Playing to win](http://www.sirlin.net/articles/playing-to-win)
+##<a name="play-to-win">Playing to win</a>
+
+["Playing to win"](http://www.sirlin.net/articles/playing-to-win) is a really old article by Sirlin which applies to
+basically any competitive multiplayer game. His examples come from fighting games such as StreetFighter but the ideas
+are valid in any game where people compete.
+
+**TL;DR:**
+
+* Figure out if you're playing for fun or to win.
+* If you're playing for fun don't feel bad if you lose.
+* If you feel bad when you lose then you're really playing to win, you just don't want to accept it.
+* When you decide that you play to win, use the best tactic allowed by the rules of the game.
+* Don't allow yourself to get blocked by fake "moral" arguments while playing to win.
+* Also when you play to win, always look for reasons why you lost within your own actions, not outside.
+
+To which I'd add:
+
+* Don't burn out. Unless you're a paid professional, take a break from the grind from time to time.
+
+#<a name="basics">Basics</a>
+
+[Trump Teachings](https://www.youtube.com/playlist?list=PLvEIxIeBRKSjprrvlbAcbVjzHsnH9PjDX)
 
 #<a name="game-metagame">The game and the meta-game</a>
 
@@ -94,7 +120,7 @@ You're like a writer looking at a blank page.
 
 Depending on your personality, this case be either a scary moment or a fun one. 
 
-If onthis is a scary moment, I recommend that you skip to the [deck selection](#deck-selection) part.
+If this is a scary moment, I recommend that you skip to the [deck selection](#deck-selection) part.
 
 If on the other hand this is a fun moment, go ahead! Start adding cards and play. Just remember that the initial plan
 you had for the deck might not work out so don't feel bad if you lose to people playing decks which have been
@@ -111,9 +137,13 @@ making a deck.
 
 ##<a name="deck-selection">Deck selection and netdecking</a>
 
-Ok, the next best option to creating your own deck is using another deck. The disadvantage is that you'll be playing a
-deck that other players are also playing and as a result
+Ok, the next best option to creating your own deck is using a pre-existing deck. The disadvantage is that you'll be playing a
+deck that other players are also playing and as a result your opponents will have probably faced this deck at least
+once. In case of really popular decks, they've probably seen it many times (Hi there, "Face Hunter"!).
 
+hearthpwn.com
+
+icyveins.com
 
 
 #<a name="basic decks">Basic decks</a>
@@ -132,7 +162,7 @@ both.
 But before that I have 1 major recommendation: do not disenchant any card unless you have 3x (for non-legend cards) or
 2x (for legend cards).
 
-<a name="budget decks">Budget decks</a>
+#<a name="budget decks">Budget decks</a>
 
 Now we're getting to the more volatile sections. These decks were made during the period after the Blackrock Mountain
 adventure (BRM for short) and before the Grand Tournament (TGT for short) release.
@@ -155,5 +185,4 @@ Of course, you don't need a full collection to play, but to really enjoy the exp
 
 And if you are here, then you probably want to improve, so you are competitive, you are "Spike".
  
-Again, courtesy of Sheng, a set of [good budget
-decks](https://www.reddit.com/r/hearthstone/comments/3e1mso/shengs_1000_dust_budget_decks_for_new_players/).
+Again, courtesy of Sheng, a set of [good budget decks](https://www.reddit.com/r/hearthstone/comments/3e1mso/shengs_1000_dust_budget_decks_for_new_players/).
