@@ -26,6 +26,8 @@ future as it is now.
 If you have suggestion for improvements use the comment section below or just contact me (contact details on the [about
 page](http://hearthstone.oblio360.com/about)).
 
+#<a name="toc"></a>
+
 * [Required reading](#required-reading)
   * [Timmy, Johhny and Spike](#player-types)
   * [Playing to win](#play-to-win)
@@ -42,7 +44,12 @@ page](http://hearthstone.oblio360.com/about)).
 
 * [Budget decks](#budget decks)
 
+* [How to progress](#progress)
+  * [Practice, practice, practice](#practice)
+  * [Watch streams or videos](#watch)
+
 #<a name="required-reading">Required reading</a>
+
 
 Before we start talking about Hearthstone there are some articles I consider interesting and which I think you should
 read before going further, the main reason is that this way we'll make sure that we are on the same page and talking
@@ -53,7 +60,9 @@ about the same things.
 Hearthstone has been inspired by a card game called [Magic the
 Gathering](https://en.wikipedia.org/wiki/Magic:_The_Gathering) (MTG for short).
 The creators of MTG, Wizards of the Coast, regularly publish articles about the design of MTG.
-["Timmy, Johnny and Spike"](http://archive.wizards.com/Magic/magazine/article.aspx?x=mtgcom/daily/mr11b) is one of the most important articles they've published, where they describe a very important principle
+["Timmy, Johnny and Spike"](http://archive.wizards.com/Magic/magazine/article.aspx?x=mtgcom/daily/mr11b) is one of the
+most important articles they've published, where they describe a very important design principle for MTG: player
+profiles they've created and which they use when designing new cards.
 
 **TL;DR:**
 
@@ -65,7 +74,7 @@ The creators of MTG, Wizards of the Coast, regularly publish articles about the 
 For you as a player it's important to figure out what your main focus will be because depending on it you will have to
 make various decisions as how to invest your time and money (Hearthstone can be a really expensive hobby if you're not
 careful).
-
+#####[Go top ↑](#toc)
 
 ##<a name="play-to-win">Playing to win</a>
 
@@ -86,9 +95,31 @@ To which I'd add:
 
 * Don't burn out. Unless you're a paid professional, take a break from the grind from time to time.
 
+#####[Go top ↑](#toc)
+
 #<a name="basics">Basics</a>
 
-[Trump Teachings](https://www.youtube.com/playlist?list=PLvEIxIeBRKSjprrvlbAcbVjzHsnH9PjDX)
+Trump is one of the best known professional Hearthstone players, also one of the most popular Hearthstone streamers. He
+has published a series of videos where he teaches the basics of Hearthstone. Highly recommended as a newbie to
+Hearthstone and minion-based card games in general.
+
+You can find the playlist here: [Trump Teachings](https://www.youtube.com/playlist?list=PLvEIxIeBRKSjprrvlbAcbVjzHsnH9PjDX).
+
+I'll also link the individual videos in case you want to see just some of them (but I still recommend that you see all
+of them):
+
+* [Introduction](https://www.youtube.com/watch?v=2KjtRokhpvM&list=PLvEIxIeBRKSjprrvlbAcbVjzHsnH9PjDX&index=1)
+* [Board Control](https://www.youtube.com/watch?v=DVNvpeQGir4&list=PLvEIxIeBRKSjprrvlbAcbVjzHsnH9PjDX&index=2)
+* [Mana Efficiency](https://www.youtube.com/watch?v=ATrWQ07Kmn4&list=PLvEIxIeBRKSjprrvlbAcbVjzHsnH9PjDX&index=3)
+* [Fearless Tapping](https://www.youtube.com/watch?v=NUiEUWUXy9E&list=PLvEIxIeBRKSjprrvlbAcbVjzHsnH9PjDX&index=4)
+* [Fearless Hitting](https://www.youtube.com/watch?v=YM-LPDFcrSc&list=PLvEIxIeBRKSjprrvlbAcbVjzHsnH9PjDX&index=5)
+* [Favorable Trading](https://www.youtube.com/watch?v=Wi58FkvElX0&list=PLvEIxIeBRKSjprrvlbAcbVjzHsnH9PjDX&index=6)
+* [Card Advantage](https://www.youtube.com/watch?v=p3ToGRbruBk&list=PLvEIxIeBRKSjprrvlbAcbVjzHsnH9PjDX&index=7)
+* [When to Face](https://www.youtube.com/watch?v=GI2HN1cRvL8&list=PLvEIxIeBRKSjprrvlbAcbVjzHsnH9PjDX&index=8)
+* [Weapons Hold](https://www.youtube.com/watch?v=xt2kLWiHnws&list=PLvEIxIeBRKSjprrvlbAcbVjzHsnH9PjDX&index=9)
+* [The Long Game](https://www.youtube.com/watch?v=oNB7qngWAT4&list=PLvEIxIeBRKSjprrvlbAcbVjzHsnH9PjDX&index=10)
+
+#####[Go top ↑](#toc)
 
 #<a name="game-metagame">The game and the meta-game</a>
 
@@ -134,6 +165,7 @@ machine-type decks. You will meet all of them as you play more and more games.
 [This article](http://www.icy-veins.com/hearthstone/how-to-build-a-deck-in-hearthstone) has some good advice about
 making a deck.
 
+#####[Go top ↑](#toc)
 
 ##<a name="deck-selection">Deck selection and netdecking</a>
 
@@ -145,6 +177,7 @@ hearthpwn.com
 
 icyveins.com
 
+#####[Go top ↑](#toc)
 
 #<a name="basic decks">Basic decks</a>
 
@@ -161,6 +194,8 @@ both.
 
 But before that I have 1 major recommendation: do not disenchant any card unless you have 3x (for non-legend cards) or
 2x (for legend cards).
+
+#####[Go top ↑](#toc)
 
 #<a name="budget decks">Budget decks</a>
 
@@ -186,3 +221,47 @@ Of course, you don't need a full collection to play, but to really enjoy the exp
 And if you are here, then you probably want to improve, so you are competitive, you are "Spike".
  
 Again, courtesy of Sheng, a set of [good budget decks](https://www.reddit.com/r/hearthstone/comments/3e1mso/shengs_1000_dust_budget_decks_for_new_players/).
+
+#####[Go top ↑](#toc)
+
+#<a name="progress">How to progres</a>
+
+##<a name="practice">Practice, practice, practice</a>
+
+#####[Go top ↑](#toc)
+
+##<a name="watch">Watch streams or videos</a>
+
+**StrifeCro**
+
+* Deck preference: control & combo.
+* Presentation & playstyle: serious & fast.
+* Game modes: constructed.
+
+**Trump**
+
+* Deck preference: control.
+* Presentation & playstyle: serious & slow.
+* Game modes: constructed, arena, brawl.
+
+Trump is one of the best known professional Hearthstone players and one of the most popular Hearthstone streamers. He is
+a very good player but his presentation can be a little dry for some and he is also known as a slow player. So I'd
+recommend patience while watching him.
+Another thing to note is that Trump leans towards "value" (i.e. only playing cards when he can get the biggest benefit
+out of playing him) so he tends to play control decks and isn't as strong while playing fast or combo decks.
+Still, a solid streamer and his Youtube videos have good editing, I'd recommend that you watch only the videos if you
+don't have a lot of time on your hands.
+
+**Kripparian**
+
+* Deck preference: N/A.
+* Presentation & playstyle: serious & fast.
+* Game modes: arena.
+
+**Kolento**
+
+* Deck preference: control.
+* Presentation & playstyle: serious & slow.
+* Game modes: constructed, arena, brawl.
+
+#####[Go top ↑](#toc)
