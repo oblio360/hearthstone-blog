@@ -7,21 +7,13 @@ title: "Welcome to Hearthstone, you suck!"
 
 Welcome to Hearthstone, you suck!
 
-Everyone who has ever tried to play Dota or Dota 2 (or basically any competitive multiplayer game) has probably been
-greeted by a similar "greeting". For some reason many human beings like to improve their self esteem by putting other
-people down.
+Everyone who has ever played any competitive multiplayer game has probably been [greeted](http://imgur.com/a/5hLGc) by
+a similar ["greeting"](http://imgur.com/a/PSMur). Well, if you're a Hearthstone newbie and want to prove these
+naysayers wrong, you've come to the right place!
 
-Luckily for us Hearthstone doesn't have in-game chat so even if your opponent doesn't like you, at worst you'll be
-facing passive-aggressive emotes... ahem... *["I greet you"](https://www.youtube.com/watch?v=Gf9kbLYh-y8)*.
-
-Some people will try to get past the emotes to tell you that you [really](http://imgur.com/a/5hLGc),
-[really](http://imgur.com/a/PSMur) suck. But we don't care about those people. And we hope they get professional
-treatment.
-
-Anyway, getting back on track, you might be wondering what this article is about. It is a guide to Hearthstone for newer
-players. It covers all major aspects of Hearthstone and links to some of the best resources available for any particular
-topic. I will update this article as new Hearthstone expansions appear but most of it should be as relevant in the
-future as it is now.
+This article is a guide to Hearthstone for newer players. It's actually a bit more than that, it is a curated collection
+of guides and useful links. These guides cover all major aspects of Hearthstone and they will definitely help you become
+a better player.
 
 If you have suggestion for improvements use the comment section below or just contact me (contact details on the [about
 page](http://hearthstone.oblio360.com/about)).
@@ -36,20 +28,22 @@ page](http://hearthstone.oblio360.com/about)).
 
 * [The game and the meta](#game-metagame)
 
+  * [Deck archetypes and styles of play](#deck-archetypes)
   * [Deck creation](#deck-creation)
   * [Deck selection and netdecking](#deck-selection)
-  * [Deck tweaking](#deck-tweaking)
+  * [Deck tweaking and tech cards](#deck-tweaking)
 
 * [Basic decks](#basic-decks)
 
-* [Budget decks](#budget decks)
+* [Budget decks](#budget-decks)
+
+* [Budget management](#budget-management)
 
 * [How to progress](#progress)
   * [Practice, practice, practice](#practice)
   * [Watch streams or videos](#watch)
 
 #<a name="required-reading">Required reading</a>
-
 
 Before we start talking about Hearthstone there are some articles I consider interesting and which I think you should
 read before going further, the main reason is that this way we'll make sure that we are on the same page and talking
@@ -67,9 +61,10 @@ profiles they've created and which they use when designing new cards.
 **TL;DR:**
 
 * Timmy: big creatures good!
-* Johnny: my 7-card combo did 80 damage!
-* Spike: Winning = everything!
-* A player is a mix of Timmy-Johnny-Spike, and usually 1 side dominates (Timmy 60% + Spike 40%, 20% Timmy + 80% Johnny).
+* Johnny: my 20-card combo did a million damage!
+* Spike: Winning is everything! Style is for losers!
+* A player is a mix of Timmy-Johnny-Spike, and usually 1 side dominates (Timmy 60% + Spike 40%, 20% Timmy + 80% Johnny,
+  etc.).
 
 For you as a player it's important to figure out what your main focus will be because depending on it you will have to
 make various decisions as how to invest your time and money (Hearthstone can be a really expensive hobby if you're not
@@ -86,7 +81,7 @@ are valid in any game where people compete.
 
 * Figure out if you're playing for fun or to win.
 * If you're playing for fun don't feel bad if you lose.
-* If you feel bad when you lose then you're really playing to win, you just don't want to accept it.
+* If you feel really bad when you lose then you're really playing to win, so you should just accept it.
 * When you decide that you play to win, use the best tactic allowed by the rules of the game.
 * Don't allow yourself to get blocked by fake "moral" arguments while playing to win.
 * Also when you play to win, always look for reasons why you lost within your own actions, not outside.
@@ -97,11 +92,26 @@ To which I'd add:
 
 #####[Go top ↑](#toc)
 
-#<a name="basics">Basics</a>
+#<a name="beatdown">Who's the beatdown</a>
+
+["Who's the beatdown"](http://www.starcitygames.com/magic/fundamentals/3692_Whos_The_Beatdown.html) is another article
+about MTG which is also very relevant to Hearthstone.
+
+**TL;DR:**
+
+* You need to know the strengths and weaknesses of your deck.
+* Back on these strenghts and weaknesses you need to continually assess your role during the game.
+* There are 2 main roles: beatdown (aggressor = aggro) and control (defender).
+* These roles vary from game to game and even from turn to turn.
+* Never go in a game thinking that you will only have 1 role all game long.
+
+#<a name="basics">Basics of Hearthstone</a>
+
+I could talk about the basics of Hearthstone but someone better than me has already done this: Trump.
 
 Trump is one of the best known professional Hearthstone players, also one of the most popular Hearthstone streamers. He
-has published a series of videos where he teaches the basics of Hearthstone. Highly recommended as a newbie to
-Hearthstone and minion-based card games in general.
+has published a series of videos where he teaches the basics of Hearthstone: "Trump Teachings". Highly recommended as a
+newbie to Hearthstone and minion-based card games in general.
 
 You can find the playlist here: [Trump Teachings](https://www.youtube.com/playlist?list=PLvEIxIeBRKSjprrvlbAcbVjzHsnH9PjDX).
 
@@ -129,13 +139,15 @@ to play the actual game, the one where you draw minions and spells, play them an
 kills you.
 
 But as you get to know more and more about Hearthstone you'll notice that there is a sort of game outside of the actual
-game.  the so-called "metagame" ("game about the game").  Players are competing to not only out-play each other during
+game,  the so-called "metagame" ("game about the game").  Players are competing to not only out-play each other during
 the actual games, but even before the game starts.
 
 How do you outplay an opponent you haven't even met before Blizzard's match making system pairs you up with him?  By
 selecting the best deck to fight whatever is thrown against you.
 
-There are 3 major parts to the metagame:
+There are 4 major parts to the metagame:
+
+* deck archetypes
 
 * deck creation
 
@@ -143,9 +155,63 @@ There are 3 major parts to the metagame:
 
 * deck tweaking
 
+##<a name="deck-archetypes">Deck archetypes and styles of play</a>
+
+Hearthstone has millions and millions of possible decks and probably tens of viable decks. However different and varied
+they might be, they fall into 3 major deck categories or deck archetypes:
+
+* Hyper aggressive decks (aggro)
+* Midrange decks (midrange or tempo)
+* Late game decks (control)
+
+You will have to decide which archetype you like most and then create or select a deck of this type.
+
+### Aggro
+
+This decks archetype wants to finish the game quickly: ideally the opponent is dead before turn 8.
+Games are fast (~5 minutes) and you're all in. You either kill your opponent quickly or he comes back and you run out of
+steam. Good aggro decks have a mechanism to continue even when they run out of steam but this usually only work when the
+opponent is still struggling to stay alive even in later turns. If the opponent gains some board presence or heals a lot
+before your "kill point" the game is usually over even if your "steroid" mechanic activates.
+
+Aggro usually relies on:
+* low cost (80% 1-2-3 mana; 20% 4+ mana) minions and spells, forming a low "mana curve"
+* mass playing (spamming) these low cost minions
+* using minions with charge for instant damage
+* efficiently costed spells for face damage (or minion removal in dire cases)
+* little to no AOE, especially if the AOE does not hit the enemy face as well
+* little to no card draw
+* no taunts or heals
+
+### Midrange / tempo
+
+This deck archetype is in between aggro and control. With a good card draw it can end a game as quickly as aggro decks but if
+it don't it still has the potential to handle the late game.
+Unlike pure aggro decks or pure control decks these decks fill a continuum where they can be almost like aggro or almost
+like control, depending on how they're tweaking by their creator.
+
+Midrange usually relies on:
+* a mix of efficient low cost and average cost minions and spells (80% 2-3-4-5-6 mana, 20% 6+ mana)
+* playing the best minion for the contest, balancing trading with face damage
+* few or no charge minions
+* versatile spells used for minion removal (or face damage if close to killing the opponent, also known as "lethal")
+* some AOE spells, amount and type varies wildly depending on the deck
+* good to great card draw
+* some taunts or heals, amount and type varies wildly depending on the deck
+
+# Control
+
+This deck archetype is the most defensive one: in the vast majority of games their opponent will be killed after turn 8.
+Games are long (can go up to 15-20-40 minutes) and unless forced by the opponent no single turn is "all in". Control
+players like to hedge their bets :smile:
+
+
+Combo
+Mill/Fatigue
+
 ##<a name="deck-creation">Deck creation</a>
 
-I'm going to start with this one, even though it is by far the hardest part of Hearthstone.  You've opened Hearthstone,
+I'm going to start with this one, even though it is by far the hardest part of Hearthstone. You've opened Hearthstone,
 clicked "My Collection" -> "New Deck" and now are looking at a blank list which you will need to fill with 30 cards.
 You're like a writer looking at a blank page.
 
@@ -169,13 +235,45 @@ making a deck.
 
 ##<a name="deck-selection">Deck selection and netdecking</a>
 
-Ok, the next best option to creating your own deck is using a pre-existing deck. The disadvantage is that you'll be playing a
-deck that other players are also playing and as a result your opponents will have probably faced this deck at least
-once. In case of really popular decks, they've probably seen it many times (Hi there, "Face Hunter"!).
+Ok, the next best option to creating your own deck is using a pre-existing deck (this is called "netdecking"). The
+disadvantage is that you'll be playing a deck that other players are also playing and as a result your opponents will
+have probably faced this deck at least once. In case of really popular decks, they've probably seen it many times (Hi
+there, "Face Hunter"!).
 
-hearthpwn.com
+There are sites where you can find decks other people are playing. The best sites are ones where decks are tagged by
+costs (gold and dust) and rated so that you can figure out quickly if many other players consider the deck any good.
 
-icyveins.com
+At the moment, the top sites for netdecking are:
+
+[http://www.hearthpwn.com](www.hearthpwn.com/)
+
+[http://www.icy-veins.com/hearthstone/](http://www.icy-veins.com/)
+
+Besides actually selecting a good deck for your favorite class, it is generally a good idea to also see if the deck you
+selected is actually good against the current metagame. This is quite hard to do and it usually involves a mix of
+playing games and doing some research online. One of the most helpful sites for this is Tempo Storm's site (Tempo Storm
+is a pro Hearthstone team). They publish a weekly review of popular and powerful decks, called the [Meta
+Snapshot](https://tempostorm.com/hearthstone).
+
+#####[Go top ↑](#toc)
+
+##<a name="deck-tweaking">Deck tweaking, stats tracking and tech cards</a>
+
+Whether you've created a deck or "just" netdecked one, you will still need to perfect the deck, especially since the
+game evolves as players gain a better and better understanding of their decks.
+
+In order to perfect your deck you will need to understand it so first of all you should play it as is. This is called
+"piloting the deck" in Hearthstone slang.
+
+The first important step is to figure out which are the **core cards** and the **"tech" cards** of the deck.
+
+### Core cards
+
+The core cards are the cards without the deck simply does not function as designed. If you remove them it does not mean
+that the deck is necessarily "broken", instead it might just mean that you turned your deck into another deck.
+
+
+
 
 #####[Go top ↑](#toc)
 
@@ -192,15 +290,17 @@ Especially at the beginning I recommend that you play a bit with these decks whi
 get a feel for each class until at some point you will probably arrive at a playstyle you like or a class you like. Or
 both.
 
-But before that I have 1 major recommendation: do not disenchant any card unless you have 3x (for non-legend cards) or
-2x (for legend cards).
+I also recommend that you do not make any serious investment decisions regarding Hearthsone before you play a bit with
+all these decks. Otherwise you might regret your initial decision terribly later on :smile:
 
 #####[Go top ↑](#toc)
 
-#<a name="budget decks">Budget decks</a>
+#<a name="budget-decks">Budget decks</a>
 
 Now we're getting to the more volatile sections. These decks were made during the period after the Blackrock Mountain
-adventure (BRM for short) and before the Grand Tournament (TGT for short) release.
+adventure (BRM for short) and before the Grand Tournament (TGT for short) release. 
+
+*TODO: update them after TGT release.* :stuck_out_tongue:
  
 It is very important to note that unlike the basic decks, which are completely free, these require more resources. And
 this is where "budget" becomes very important.
