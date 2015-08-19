@@ -174,7 +174,12 @@ steam. Good aggro decks have a mechanism to continue even when they run out of s
 opponent is still struggling to stay alive even in later turns. If the opponent gains some board presence or heals a lot
 before your "kill point" the game is usually over even if your "steroid" mechanic activates.
 
+Against all other non-aggro decks aggro deck are the "beatdown". Against other aggro decks they can become a sort of
+strange "control deck" unless they decide to race each other for face damage, trying to kill the opponent 1 turn before
+the opponent kills them.
+
 Aggro usually relies on:
+
 * low cost (80% 1-2-3 mana; 20% 4+ mana) minions and spells, forming a low "mana curve"
 * mass playing (spamming) these low cost minions
 * using minions with charge for instant damage
@@ -190,24 +195,47 @@ it don't it still has the potential to handle the late game.
 Unlike pure aggro decks or pure control decks these decks fill a continuum where they can be almost like aggro or almost
 like control, depending on how they're tweaking by their creator.
 
+Midrange / tempo decks are very fluid in switching between the "beatdown" and "control" roles. They are generally
+"controlly" against aggro and "beatdowny" against control.
+
 Midrange usually relies on:
+
 * a mix of efficient low cost and average cost minions and spells (80% 2-3-4-5-6 mana, 20% 6+ mana)
-* playing the best minion for the contest, balancing trading with face damage
+* playing the best minion for the context, balancing trading with face damage
 * few or no charge minions
 * versatile spells used for minion removal (or face damage if close to killing the opponent, also known as "lethal")
 * some AOE spells, amount and type varies wildly depending on the deck
 * good to great card draw
 * some taunts or heals, amount and type varies wildly depending on the deck
 
-# Control
+### Control
 
 This deck archetype is the most defensive one: in the vast majority of games their opponent will be killed after turn 8.
 Games are long (can go up to 15-20-40 minutes) and unless forced by the opponent no single turn is "all in". Control
 players like to hedge their bets :smile:
 
+Against most other decks control decks plays the "control" role (no surprise here). Against some specific control decks
+even control decks become weird "beatdown" decks, much as aggro versus aggro produces weird results :smile:.
 
-Combo
-Mill/Fatigue
+Control relies on:
+
+* high cost minions or spells (50% 5+ mana, 20% 7+ mana)
+* playing the best minion for the context, focusing on board control until very, very late (usually later than turn 10)
+* few or no charge minions
+* strong spells used for minion removal
+* very strong AOE spells
+* average card draw
+* many taunts or heals
+
+## Extra
+
+Besides these major archetypes you will hear about various other deck types. These actually fit into the categories
+above, but they have their own twists:
+
+* Combo: rely on a very strong combo to kill their opponent; they're either midrange or control based on their mana
+  curve
+* Mill/Grinder/Fatigue: rely on either destroying key enemy cards ("milling) or prolonging the game so much that their opponent
+  is killed either by a lack of responses for their actions or by fatigue damage
 
 ##<a name="deck-creation">Deck creation</a>
 
@@ -245,9 +273,9 @@ costs (gold and dust) and rated so that you can figure out quickly if many other
 
 At the moment, the top sites for netdecking are:
 
-[http://www.hearthpwn.com](www.hearthpwn.com/)
+[hearthpwn.com](http://www.hearthpwn.com/)
 
-[http://www.icy-veins.com/hearthstone/](http://www.icy-veins.com/)
+[icy-veins.com](http://www.icy-veins.com/hearthstone/)
 
 Besides actually selecting a good deck for your favorite class, it is generally a good idea to also see if the deck you
 selected is actually good against the current metagame. This is quite hard to do and it usually involves a mix of
@@ -277,7 +305,7 @@ that the deck is necessarily "broken", instead it might just mean that you turne
 
 #####[Go top ↑](#toc)
 
-#<a name="basic decks">Basic decks</a>
+#<a name="basic-decks">Basic decks</a>
 
 Courtesy of Sheng from [hearthstonecoaching.gom](http://www.hearthstonecoaching.com/), a set of [good basic
 decks](http://www.reddit.com/r/hearthstone/comments/2fgq0x/basic_deck_guides_for_all_9_classes_0_dust/).
@@ -355,13 +383,13 @@ don't have a lot of time on your hands.
 **Kripparian**
 
 * Deck preference: N/A.
-* Presentation & playstyle: serious & fast.
+* Presentation & playstyle: serious & slow.
 * Game modes: arena.
 
 **Kolento**
 
 * Deck preference: control.
 * Presentation & playstyle: serious & slow.
-* Game modes: constructed, arena, brawl.
+* Game modes: constructed.
 
 #####[Go top ↑](#toc)
