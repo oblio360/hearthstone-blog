@@ -23,6 +23,7 @@ page](http://hearthstone.oblio360.com/about)).
 * [Required reading](#required-reading)
   * [Timmy, Johhny and Spike](#player-types)
   * [Playing to win](#play-to-win)
+  * [Who's the beatdown](#beatdown)
 
 * [Basics of Hearthstone](#basics)
 
@@ -31,7 +32,7 @@ page](http://hearthstone.oblio360.com/about)).
   * [Deck archetypes and styles of play](#deck-archetypes)
   * [Deck creation](#deck-creation)
   * [Deck selection and netdecking](#deck-selection)
-  * [Deck tweaking and tech cards](#deck-tweaking)
+  * [Deck tweaking, core cards, tech cards and stats tracking](#deck-tweaking)
 
 * [Basic decks](#basic-decks)
 
@@ -105,6 +106,8 @@ about MTG which is also very relevant to Hearthstone.
 * These roles vary from game to game and even from turn to turn.
 * Never go in a game thinking that you will only have 1 role all game long.
 
+#####[Go top ↑](#toc)
+
 #<a name="basics">Basics of Hearthstone</a>
 
 I could talk about the basics of Hearthstone but someone better than me has already done this: Trump.
@@ -133,7 +136,7 @@ of them):
 
 #<a name="game-metagame">The game and the meta-game</a>
 
-When discussing or reading about Hearthstone you'll often hear about something called "the metagame".  Basically
+When discussing or reading about Hearthstone you'll often hear about something called "the metagame". Basically
 Hearthstone is a game of cards, as we know. Each time you click "Play" and you're looking for an opponent you're going
 to play the actual game, the one where you draw minions and spells, play them and try to kill the enemy hero before he
 kills you.
@@ -142,7 +145,7 @@ But as you get to know more and more about Hearthstone you'll notice that there 
 game,  the so-called "metagame" ("game about the game").  Players are competing to not only out-play each other during
 the actual games, but even before the game starts.
 
-How do you outplay an opponent you haven't even met before Blizzard's match making system pairs you up with him?  By
+How do you outplay an opponent you haven't even met before Blizzard's match making system pairs you up with him? By
 selecting the best deck to fight whatever is thrown against you.
 
 There are 4 major parts to the metagame:
@@ -168,6 +171,8 @@ You will have to decide which archetype you like most and then create or select 
 
 ### Aggro
 
+![Hunters](/images/posts/welcome-to-hearthstone-you-suck/aggro.png)
+
 This decks archetype wants to finish the game quickly: ideally the opponent is dead before turn 8.
 Games are fast (~5 minutes) and you're all in. You either kill your opponent quickly or he comes back and you run out of
 steam. Good aggro decks have a mechanism to continue even when they run out of steam but this usually only work when the
@@ -190,6 +195,8 @@ Aggro usually relies on:
 
 ### Midrange / tempo
 
+![Shaman/Rogue](/images/posts/welcome-to-hearthstone-you-suck/midrange.png)
+
 This deck archetype is in between aggro and control. With a good card draw it can end a game as quickly as aggro decks but if
 it don't it still has the potential to handle the late game.
 Unlike pure aggro decks or pure control decks these decks fill a continuum where they can be almost like aggro or almost
@@ -210,6 +217,8 @@ Midrange usually relies on:
 
 ### Control
 
+![Warrior/Priest](/images/posts/welcome-to-hearthstone-you-suck/control.png)
+
 This deck archetype is the most defensive one: in the vast majority of games their opponent will be killed after turn 8.
 Games are long (can go up to 15-20-40 minutes) and unless forced by the opponent no single turn is "all in". Control
 players like to hedge their bets :smile:
@@ -227,7 +236,7 @@ Control relies on:
 * average card draw
 * many taunts or heals
 
-## Extra
+### Extra
 
 Besides these major archetypes you will hear about various other deck types. These actually fit into the categories
 above, but they have their own twists:
@@ -240,7 +249,7 @@ above, but they have their own twists:
 ##<a name="deck-creation">Deck creation</a>
 
 I'm going to start with this one, even though it is by far the hardest part of Hearthstone. You've opened Hearthstone,
-clicked "My Collection" -> "New Deck" and now are looking at a blank list which you will need to fill with 30 cards.
+clicked "My Collection" → "New Deck" and now are looking at a blank list which you will need to fill with 30 cards.
 You're like a writer looking at a blank page.
 
 Depending on your personality, this case be either a scary moment or a fun one. 
@@ -285,7 +294,7 @@ Snapshot](https://tempostorm.com/hearthstone).
 
 #####[Go top ↑](#toc)
 
-##<a name="deck-tweaking">Deck tweaking, stats tracking and tech cards</a>
+##<a name="deck-tweaking">Deck tweaking, core cards, tech cards and stats tracking</a>
 
 Whether you've created a deck or "just" netdecked one, you will still need to perfect the deck, especially since the
 game evolves as players gain a better and better understanding of their decks.
@@ -300,8 +309,57 @@ The first important step is to figure out which are the **core cards** and the *
 The core cards are the cards without the deck simply does not function as designed. If you remove them it does not mean
 that the deck is necessarily "broken", instead it might just mean that you turned your deck into another deck.
 
+Examples of core cards:
 
 
+![Core Cards](/images/posts/welcome-to-hearthstone-you-suck/core-cards.png)
+
+* Molten Giants for Handlock
+* Grim Patrons for Patron Warrior
+* Tirion Fordring for Midrange Paladin
+
+### Tech cards
+
+"Tech" cards are cards used as a counter to something, they're the "technology" you use against a specific threat.
+Unlike core cards they can be swapped in and out of a deck depending on the type of opponent you're facing most.
+
+Examples of tech cards:
+
+
+![Tech Cards](/images/posts/welcome-to-hearthstone-you-suck/tech-cards.png)
+
+* Black Knight against decks with lots of taunts
+* Ironbeak Owl against enemy minions with taunt, strong deathrattles or against buffs
+* Harrison Jones against decks with powerful weapons
+
+Be careful while changing tech cards in a netdeck as a good netdeck has been most likely been tweaked through tech cards
+to cover the deck's weakness. Try to ask a more experienced player or the deck creator before changing tech cards.
+
+#####[Go top ↑](#toc)
+
+### Stats tracking
+
+So now you know what kind of deck archetype you want to play, what exact deck and what core cards and tech cards you
+want. At least you think you do :)
+
+In order to make sure that your decisions are correct you should track your stats. Hearthstone is a casual-friendly game
+and as a result it does not offer stats tracking in order to not frighten newcomers such as yourself :)
+
+But if you're not scared of practicing in order to improve your game, there are third-party stats trackers.
+Unfortunately the mobile versions of Hearthstone do not have stats tracking, so if you want to track your stats on
+mobile you will have to do it the old fashioned way with pen & paper or Excel spreadsheets.
+
+If you play the desktop version, especially on Windows, then you're in luck.
+
+The [Hearthstone Deck Tracker](https://github.com/Epix37/Hearthstone-Deck-Tracker) is the most common tracker in use
+right now. Once you've installed it and configured it (which can be tricky), it will automatically track your results
+with various decks. It offers a lot of powerful features such as:
+
+* in-game card tracking for yourself and your opponent (it shows % chances for you or your opponent to draw a specific card)
+* game history separated per deck
+* and a ton of other features
+
+Really useful and powerful, definitely recommended if you're the competitive, Spike, type.
 
 #####[Go top ↑](#toc)
 
@@ -310,7 +368,7 @@ that the deck is necessarily "broken", instead it might just mean that you turne
 Courtesy of Sheng from [hearthstonecoaching.gom](http://www.hearthstonecoaching.com/), a set of [good basic
 decks](http://www.reddit.com/r/hearthstone/comments/2fgq0x/basic_deck_guides_for_all_9_classes_0_dust/).
 
-These deck won't take you to legend (unless you're super smart or super lucky or both :smile: ), but they are a good
+These deck won't take you to legend (unless you're super smart or super lucky or both :smile:), but they are a good
 place to start.  Each deck comes with an explanation of why a specific card was selected over another one and the
 reasoning is solid.
 
@@ -328,7 +386,7 @@ all these decks. Otherwise you might regret your initial decision terribly later
 Now we're getting to the more volatile sections. These decks were made during the period after the Blackrock Mountain
 adventure (BRM for short) and before the Grand Tournament (TGT for short) release. 
 
-*TODO: update them after TGT release.* :stuck_out_tongue:
+*TODO: update them after TGT release.* :blush:
  
 It is very important to note that unlike the basic decks, which are completely free, these require more resources. And
 this is where "budget" becomes very important.
@@ -356,40 +414,72 @@ Again, courtesy of Sheng, a set of [good budget decks](https://www.reddit.com/r/
 
 ##<a name="practice">Practice, practice, practice</a>
 
+Kind of obvious: as you play more you become better and better at Hearthstone.
+
+However, something many people miss is that past a certain point you need to practice in a systematic manner. For this
+you will need a big, overarching goal and a set of steps to achieve it.
+
+For example: 
+
+* Goal: achieve legend.
+* Steps: 
+    * 1. craft a Tempo Mage deck 
+    * 2. learn to play it by playing some casual games
+    * 3. start playing on the ranked ladder, tracking your stats
+    * 4. based on your stats tweak your deck if your win rate over a larger number of games is low (50% or less)
+    * 5. if after tweaking your win rate still stays low, change decks
+
 #####[Go top ↑](#toc)
 
 ##<a name="watch">Watch streams or videos</a>
 
+Another way to become better is to watch better players. Watch their games and ask yourself after each play:
+
+What would I have done differenty? Why did he play the turn this way? What would have happened 1-2-3 turns from now with
+my play and with his play?
+
 **StrifeCro**
 
 * Deck preference: control & combo.
-* Presentation & playstyle: serious & fast.
+* Presentation & playstyle: relaxed & slow.
 * Game modes: constructed.
+* Favorite classes: Mage, Warlock, Paladin.
+
+[![StrifeCro Youtube](/images/posts/common/youtube.png)](https://www.youtube.com/user/strifecro)
+[![StrifeCro Twitch](/images/posts/common/twitch.png)](http://www.twitch.tv/strifecro)
 
 **Trump**
 
 * Deck preference: control.
-* Presentation & playstyle: serious & slow.
+* Presentation & playstyle: relaxed & slow.
 * Game modes: constructed, arena, brawl.
+* Favorite classes: Paladin, Warlock.
 
-Trump is one of the best known professional Hearthstone players and one of the most popular Hearthstone streamers. He is
-a very good player but his presentation can be a little dry for some and he is also known as a slow player. So I'd
-recommend patience while watching him.
-Another thing to note is that Trump leans towards "value" (i.e. only playing cards when he can get the biggest benefit
-out of playing him) so he tends to play control decks and isn't as strong while playing fast or combo decks.
-Still, a solid streamer and his Youtube videos have good editing, I'd recommend that you watch only the videos if you
-don't have a lot of time on your hands.
+I'd recommend also watching his [teaching for Hearthstone
+decks](https://www.youtube.com/playlist?list=PLvEIxIeBRKShebsK_0f5_WbnaMVmWVXDL). Even though some of them might be out
+of data as expansions appear they still cover a wide variety of playstyles.
+
+[![Trump Youtube](/images/posts/common/youtube.png)](https://www.youtube.com/user/TrumpSC)
+[![Trump Twitch](/images/posts/common/twitch.png)](http://www.twitch.tv/trumpsc)
 
 **Kripparian**
 
 * Deck preference: N/A.
 * Presentation & playstyle: serious & slow.
 * Game modes: arena.
+* Favorite classes: Mage.
+
+[![Kripparian Youtube](/images/posts/common/youtube.png)](https://www.youtube.com/user/Kripparrian)
+[![Kripparian Twitch](/images/posts/common/twitch.png)](http://www.twitch.tv/nl_kripp)
 
 **Kolento**
 
 * Deck preference: control.
 * Presentation & playstyle: serious & slow.
 * Game modes: constructed.
+* Favorite classes: Priest.
+
+[![Kolento Youtube](/images/posts/common/youtube.png)](https://www.youtube.com/channel/UC3oHeWsu0w2I_4JnwHTz-Tw)
+[![Kolento Twitch](/images/posts/common/twitch.png)](http://www.twitch.tv/kolento)
 
 #####[Go top ↑](#toc)
