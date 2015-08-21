@@ -516,6 +516,10 @@ you are feeling confident that you could do a 50-60-100 gold quest with another 
 
 The gold really adds up after several weeks or month. Don't miss out on it.
 
+A great resource for figuring out how to get gold/dust in Hearthstone is the [wiki
+page](http://hearthstone.gamepedia.com/Quest). I'd recommend not spending your initial gold/dust until after you've read
+this page. I know I wasted quite a bit of resources before I read it :disappointed:
+
 #### Aventures
 
 Adventures are better bought with real cash, if the cards in them are considered good by the community. Buying them with
