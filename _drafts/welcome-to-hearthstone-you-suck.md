@@ -483,3 +483,9 @@ of data as expansions appear they still cover a wide variety of playstyles.
 [![Kolento Twitch](/images/posts/common/twitch.png)](http://www.twitch.tv/kolento)
 
 #####[Go top ↑](#toc)
+
+And for the daring souls that got this far...
+
+The article title was shamelessly stolen from [Dota 2's Purge](https://purgegamers.true.io/g/dota-2-guide/).
+
+And I'd like to thank everyone who had the patience to read this far! You rock!
