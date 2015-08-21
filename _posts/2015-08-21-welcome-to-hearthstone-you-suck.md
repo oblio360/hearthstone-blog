@@ -7,7 +7,7 @@ title: "Welcome to Hearthstone, you suck!"
 
 Welcome to Hearthstone, you suck!
 
-Everyone who has ever played any competitive multiplayer game has probably been [greeted](http://imgur.com/a/5hLGc) by
+Everyone who has ever played any competitive multiplayer game has probably been ["cheered"](http://imgur.com/a/5hLGc) by
 a similar ["greeting"](http://imgur.com/a/PSMur). Well, if you're a Hearthstone newbie and want to prove these
 naysayers wrong, you've come to the right place!
 
@@ -24,8 +24,15 @@ page](http://hearthstone.oblio360.com/about)).
   * [Timmy, Johhny and Spike](#player-types)
   * [Playing to win](#play-to-win)
   * [Who's the beatdown](#beatdown)
+  * [Hearthstone Wiki](#wiki)
 
 * [Basics of Hearthstone](#basics)
+
+* [Game modes](#game-modes)
+  * [Solo adventures aka "Single player"](#single-player)
+  * [Play aka "Constructed"](#constructed)
+  * [Arena](#arena)
+  * [Brawl](#brawl)
 
 * [The game and the meta](#game-metagame)
 
@@ -108,6 +115,16 @@ about MTG which is also very relevant to Hearthstone.
 
 #####[Go top ↑](#toc)
 
+#<a name="wiki">Hearthstone Wiki</a>
+
+Ok, this a bit of a stretch since it's not exactly "required reading", it's more like an encyclopedia. And you should
+use it as an encyclopedia: as a reference. The place you go when you don't know something. Such as details about a class
+or a card or an expansion or many other Hearthstone details I couldn't possibly fit into a single article.
+
+Without further ado: [Hearthstone Wiki](http://hearthstone.gamepedia.com/Hearthstone_Wiki).
+
+#####[Go top ↑](#toc)
+
 #<a name="basics">Basics of Hearthstone</a>
 
 I could talk about the basics of Hearthstone but someone better than me has already done this: Trump.
@@ -131,6 +148,73 @@ of them):
 * [When to Face](https://www.youtube.com/watch?v=GI2HN1cRvL8&list=PLvEIxIeBRKSjprrvlbAcbVjzHsnH9PjDX&index=8)
 * [Weapons Hold](https://www.youtube.com/watch?v=xt2kLWiHnws&list=PLvEIxIeBRKSjprrvlbAcbVjzHsnH9PjDX&index=9)
 * [The Long Game](https://www.youtube.com/watch?v=oNB7qngWAT4&list=PLvEIxIeBRKSjprrvlbAcbVjzHsnH9PjDX&index=10)
+
+#####[Go top ↑](#toc)
+
+#<a name="game-modes">Game modes</a>
+
+Basically everything we've discussed so far applies to all game modes in Hearthstone. So now it's time to discuss about
+game modes and see what's different in each one.
+
+##<a name="single-player">Solo adventures aka "Single player"</a>
+
+While fun, this is probably the least interesting aspect of Hearthstone. It contains:
+
+* a practice mode for absolute beginners
+* a slightly more advanced practice mode for intermediate players (Blizzard lovingly calling this one "expert mode")
+* and adventures, which are slightly tougher single player battles which give you rewards
+
+Adventures are not free, they cost either a lot of Hearthstone gold or quite a bit of real money. Just remember that you
+actually have to beat the computer opponents in order to get the rewards, you don't instantly get the rewards when you
+pay for the adventures :wink:
+
+Also, because Hearthstone always logs you in to the Blizzard servers, "single player" mode doesn't work when you have no
+Internet connection. So no Hearthstone practice for you while you're offline!
+
+##<a name="constructed">Play aka "Constructed"</a>
+
+Probably the biggest game mode of them all. This is the place where you can make your own decks. And the rest of this
+guide will be about the "constructed" game mode, except for the 2 sections below.
+
+Probably the most complicated and competitive game mode.
+
+It is separated into:
+
+* "Casual", which has a hidden match making ranking system
+* "Play" (also called "Ladder" or "Ranked"), which has a "visible" ranking (ranked or position on the
+legend ladder for legend players)
+
+Keep in mind that the match making system is far from perfect and in "Casual" you will probably face players with a lot
+more cards and experience than you. Just relax and try to make the most of it!
+
+In "Ranked" you will start at rank 25 and progress until rank 20. Each win will give you 1 star and once you get a
+certain number of stars you will advance a rank. Starting at rank 19 each loss will erase one of your stars.
+
+Until rank 5 if you win multiple consecutive games you will get extra stars. As a result it will be easier to advance up
+to rank 5. At rank 5 opponents start becoming a lot more efficient plus each loss cannot be compensated by win streaks,
+therefore the competition becomes fierce.
+
+##<a name="arena">Arena</a>
+
+Arena is the place where you make your deck from random cards. For each deck slot you're offered 3 cards and you have to
+pick one. Card rarity matters, so common cards are... common, rare cards are... rare (only several per deck), epic cards are...
+almost as rare (also several per deck) and legendary cards are super rare (you might make several decks without getting
+1).
+
+The best place to look for arena advice is [HearthArena](http://www.heartharena.com/). Create an account, use it, and
+you will definitely get better at arena faster than you'd do it on your own.
+
+Which is important since arena entries are not free, and if you manage to get 7+ wins constantly arena pays for itself.
+
+##<a name="brawl">Tavern Brawl aka "Brawl"</a>
+
+Tavern Brawl is the most casual game mode of Hearthstone. Each week a new game mode appears here with rules and decks
+made by Blizzard. Since everything is mostly random there's not much to say about it.
+
+Just select the game mode, read the rules and see what happens.
+
+This mode is also great for beginners, in general, since many brawls offer you predefined decks so you are on equal
+footing with your opponents regarding the deck.
 
 #####[Go top ↑](#toc)
 
@@ -407,6 +491,64 @@ Of course, you don't need a full collection to play, but to really enjoy the exp
 And if you are here, then you probably want to improve, so you are competitive, you are "Spike".
  
 Again, courtesy of Sheng, a set of [good budget decks](https://www.reddit.com/r/hearthstone/comments/3e1mso/shengs_1000_dust_budget_decks_for_new_players/).
+
+#####[Go top ↑](#toc)
+
+#<a name="budget-management">Budget management</a>
+
+You might be wondering: "What budget management are you talking about?". Well, your wallet.
+
+Hearthstone is a free game. Actually it is a "free to play" game (or F2P). When you start playing it is free and if
+you're only playing it rarely it remains free.
+
+However, as you keep playing more and more you notice that the odds are stacked heavily against you, especially if you
+play the constructed game mode. And Blizzard has made sure that you can't advance without a huge time or cash
+investment. When I say huge, I mean hundreds and hundreds of hours of grinding and hundreds and hundreds of dollars
+invested, if you're not careful.
+
+This section deserves its own article, but here are some basic rules regarding budget management:
+
+#### Quests
+
+Try to do all your daily quests. Use the tiny "x" in the corner to dismiss quests you know you cannot do or it takes you
+a very long time to do (for example quests with a class you barely have cards for). Also dismiss quests worth 40 gold if
+you are feeling confident that you could do a 50-60-100 gold quest with another class.
+
+The gold really adds up after several weeks or month. Don't miss out on it.
+
+#### Aventures
+
+Adventures are better bought with real cash, if the cards in them are considered good by the community. Buying them with
+gold is very inefficient, by design. It is a good idea to determine how many pieces of these adventures you actually
+want to buy (pieces = adventure "wings").
+
+#### Card packs
+
+Card packs are not a really good investment except for the initial phase where you want to kickstart your collection.
+Ideally you only want to buy packs, preferably with gold, when an expansion is out.
+
+#### Arena
+
+Getting a decent set of arena skills, allowing you to get at least 4-5 wins per run, is a very good idea. Arena rewards
+you with a random pack from the Classic, Goblin versus Gnomes or The Grand Tournament sets. It is the best way to fill
+your collection on a budget, together with quests.
+
+#### Golden cards
+
+Short version: don't. They're very expensive to create. If you have extra golden cards, always disenchant them and get
+useful cards you're lacking. Don't disenchant golden epic or legendary cards if you don't have them already, because you
+will lose dust in the conversion process if you're ever forced to re-craft them.
+
+#### Disenchanting
+
+Always disenchant the extra copies. That means anything more than 2x for common/rare/epic and anything more than 1x for
+legendaries. The extra copies don't help with anything. Except for bragging that you have 5
+[Malornes](http://hearthstone.gamepedia.com/Malorne).
+
+Also, don't disenchant "bad" cards in the beginning. You have way too little experience to decide correctly what a bad
+card is. Plus many "bad" cards suddenly become useful when a strong deck is created which has them.
+
+As I said, this section deserves its own (probably huge, article).
 
 #####[Go top ↑](#toc)
 
