@@ -116,7 +116,7 @@ haven't actually recorded game time but [some people did
 that](http://www.hearthpwn.com/forums/hearthstone-general/general-discussion/12835-game-length-a-study) and their
 estimate is actually close to 10 minutes.
 
-### Average win rate
+### Average win rate is 66% or lower
 
 I can't find the source anymore (please comment below if you have it), but Blizzard released the winrate of the top
 legend player for 1 season and it was roughly 75%. So this could be taken as the highest average win rate possible for a
@@ -127,3 +127,8 @@ performance, while he was "in the zone".
 
 Mere mortals will probably be more than satisified with 66%, which I feel is still too optimistic for the average
 player. To simplify calculations I will use this ratio and maybe adjust the time estimates upwards at the end.
+
+So, our hypothetical player plays 1 game in 10 minutes and wins 2/3 games he plays. How does he get gold? He gets it by
+winning 3 games. Then he receives 10 gold, up to a total of 100 gold per day, for 30 total victories.
+
+He can also get gold from daily quests.
