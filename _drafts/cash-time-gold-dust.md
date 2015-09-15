@@ -30,7 +30,7 @@ and one of the most important things is to see how much each one of them costs, 
 
 The most important ones? The ones most related to "real life" things: cash to gold / dust, time to gold / dust.
 
-# Cash to gold
+# Cash to gold: $1.33 for 100 gold
 
 The easiest exchange rate? Cash to gold. We can figure it out through card pack and arena entry prices, both of which are
 shown by Blizzard in both cash and gold. I will use the prices in US dollars from now on, to keep things consistent.
@@ -40,15 +40,14 @@ So, let's see:
 1 pack: 100 gold. This is the only option which is available for gold, for the rest you'll have to use cash. But we can
 use this price and multiply it for the number of packs to determine the gold cost of multiple packs.
 
-2 packs: 200 gold or $2.99.
-
-7 packs: 700 gold or $9.99.
-
-15 packs: 1500 gold or $19.99.
-
-40 packs: 4000 gold or $49.99.
-
-60 packs: 6000 gold or $69.99.
+| Number of packs  | Gold cost | Cash Cost  |
+| ---------------- | --------- | ---------- |
+| 1 pack           | 100 gold  | -          |
+| 2 packs          | 200 gold  | $2.99      |
+| 7 packs          | 700 gold  | $9.99      |
+| 15 packs         | 1500 gold | $19.99     |
+| 40 packs         | 4000 gold | $49.99     |
+| 60 packs         | 6000 gold | $69.99     |
 
 So this means that the cash to gold exchange depends on the volume, giving us a range of:
 $1.495 / 100 gold → to $1.167 / 100 gold.
@@ -69,7 +68,7 @@ for the rest.
 But, thankfully, Hearthstone has a big and active community so we do have some data. And I'd venture to say that we're
 damned closer to the actual number Blizzard won't ever show us, than they ever thought.
 
-# Gold to dust
+# Gold to dust: 100 gold for 100 dust
 
 Ok, so along the way we'll take a detour. We need to know how much gold and dust are roughly worth in relation to each
 other in order to make a good decision when making our collection.
@@ -87,7 +86,7 @@ Since 1 pack costs 100 gold, therefore the gold to dust exchange is 1:1, or 100:
 
 This will also solve...:
 
-# Cash to dust
+# Cash to dust: $1.33 for 100 dust
 
 Well, since gold to dust is 1:1, cash to dust is also $1.33 to 100. Phew, that was easy!
 
@@ -97,7 +96,7 @@ on a Friday evening :wink:
 
 Plus there's another component we haven't covered.
 
-# Time to gold
+# Time to gold: 1 hour is 50 gold
 
 Things related to time are incredibly tricky to determine, but we can at least try. For this to work we need to set some
 base rules:
@@ -131,4 +130,89 @@ player. To simplify calculations I will use this ratio and maybe adjust the time
 So, our hypothetical player plays 1 game in 10 minutes and wins 2/3 games he plays. How does he get gold? He gets it by
 winning 3 games. Then he receives 10 gold, up to a total of 100 gold per day, for 30 total victories.
 
-He can also get gold from daily quests.
+
+### Average gold per quest is 40
+
+He can also get gold from daily quests. And the ever helpful Hearthstone community has already made [experiments to
+determine the average gold value of a
+quest](https://www.reddit.com/r/hearthstone/comments/1wee8a/so_i_rerolled_107_daily_quests/). The result is not as
+precise as I wanted, for various reasons, but apparently the average gold per quest we should expect hovers around
+45-48. Since in my calculation I assume that the player is able to finish his quest during the alloted time period (1
+hour), which might not be always possible in real life circumstances, I'm lowering the average gold amount per quest to
+40.
+
+So, when we add it all up... if our hypothetical player plays 1 hour of Hearthstone per day, he will play roughly 6
+games, out of which he will win, on average, 4 games. This will net him 13.33 gold, on average, from the 3-win reward
+and will probably net him his quest reward if he pursues it, netting him 40 more gold.
+
+The 13.33 gold seems a little too generous considering that most players do not have a 66% win rate so I'm arbitrarily
+lowering the gold amount to 10 gold. This also makes things simpler :smiling_imp:
+
+# Time to cash: 1 hour is $0.67
+
+Since 100 gold is worth roughly $1.33 and we've determined than on average a player will get 50 gold for 1 hour played,
+then 1 hour gets you about $0.67 worth of Hearthstone value. Yay! :fist:
+
+# Enough already, how should I budget for Hearthstone?
+
+So, if you want to play constructed (casual + ranked), you will need to buy:
+
+* adventures
+* packs
+
+### Adventures: buy them with cash if you can
+
+Adventures generally contain some core deck cards. Almost every viable decks has them, so you will probably want to buy
+them. By the way, this is by design, Blizzard places core cards in adventures since it wants players to buy them. You
+will be able to play those key decks without adventures but you'll be at a severe disadvantage. Like playing Patron
+without Grim Patron, Emperor Thaurissan and Deathsbite or playing Hunter without Mad Scientist...
+
+Well, besides the fact that Blizzard gently nudges you to buy adventures because of those cards I mentioned, it also
+gently nudges you to buy them with cash. Why?
+
+| Number of wings | Cash cost | Gold cost | Cash / 100 gold |
+| --------------- | --------- | --------- | --------------- |
+| 5               | $24.99    | 3500      | $0.71           |
+| 4               | $19.99    | 2800      | $0.71           |
+| 3               | $14.99    | 2100      | $0.71           |
+| 2               | $9.99     | 1400      | $0.71           |
+| 1               | $6.99     | 700       | $0.98           |
+
+Soo for $0.71 or $0.98 you're getting 100 gold. So cool! Not really. This just means that you're going to waste a ton of
+gold if you want to buy the adventures with gold, since you're basically wasting $0.35-$0.62 per 100 gold spent, which
+you could have used on packs or arenas, for example.
+
+The conclusion: buy the adventures with cash if you can. Of course, if your collection is almost full and you've already
+saved thousands of gold, then by all means, save your cash and use the gold! :smile:
+
+### Making a full collection: $1,415
+
+Now that we have the adventures out of the way (and probably $50 out of your pocket), let's see for the rest of the
+cards. And as previously, [the community did the hard work](http://us.battle.net/hearthstone/en/forum/topic/18705070859)!
+
+So, let's see:
+
+| Card set             | Number of packs needed for full collection |
+| -------------------- | ------------------------------------------ |
+| Classic              | 472                                        |
+| Goblin versus Gnomes | 294                                        |
+| The Grand Tournament | 298                                        |
+
+So for a full collection you'd need 1064 packs, give or take a few. That's 106,400 gold. Or $1,415.
+
+Now, before you despair, there are some things I should point out:
+
+* first of all, [get better at Hearthstone](http://localhost:4000/2015/08/21/welcome-to-hearthstone-you-suck/): you will
+  need to prioritize cards and decks and you will be able to do it a lot better once you know the game
+* you don't need all the cards; at best, maybe 40% of the cards are actually used in popular decks
+* there are daily quests which reward you with card packs
+* playing ranked and getting as high as you can will reward you with golden cards, which will boost your collection
+  quite a bit
+* playing Arena well will definitely help you with getting a larger collection
+* there are [some tricks](https://netdeck.n4ru.it/free-galaxy-gifts-cardback-and-3-packs/) for getting [extra packs](http://hearthstone.gamepedia.com/Quest#Limited_availability)
+
+Now that you have all this info you can plan your budget accordingly. And one of the first things you should remember is
+that you should never disenchant epic and legendary cards because you think they're bad. If you'll need them later on
+your costs will increase greatly.
+
+If you have more tips for how to increase your Hearthstone card collection efficiently, please comment below.
