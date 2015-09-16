@@ -200,16 +200,19 @@ So, let's see:
 
 So for a full collection you'd need 1064 packs, give or take a few. That's 106,400 gold. Or $1,415.
 
+# Conclusion
+
 Now, before you despair, there are some things I should point out:
 
-* first of all, [get better at Hearthstone](http://localhost:4000/2015/08/21/welcome-to-hearthstone-you-suck/): you will
+* first of all, [get better at Hearthstone](http://hearthstone.oblio360.com/2015/08/21/welcome-to-hearthstone-you-suck/): you will
   need to prioritize cards and decks and you will be able to do it a lot better once you know the game
 * you don't need all the cards; at best, maybe 40% of the cards are actually used in popular decks
 * there are daily quests which reward you with card packs
 * playing ranked and getting as high as you can will reward you with golden cards, which will boost your collection
   quite a bit
-* playing Arena well will definitely help you with getting a larger collection
-* there are [some tricks](https://netdeck.n4ru.it/free-galaxy-gifts-cardback-and-3-packs/) for getting [extra packs](http://hearthstone.gamepedia.com/Quest#Limited_availability)
+* playing Arena well will definitely help you with getting a larger collection faster
+* there are [some tricks](https://netdeck.n4ru.it/free-galaxy-gifts-cardback-and-3-packs/) for getting [extra
+  packs](http://hearthstone.gamepedia.com/Quest#Limited_availability)
 
 Now that you have all this info you can plan your budget accordingly. And one of the first things you should remember is
 that you should never disenchant epic and legendary cards because you think they're bad. If you'll need them later on
