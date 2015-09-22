@@ -18,7 +18,7 @@ a better player.
 If you have suggestion for improvements use the comment section below or just contact me (contact details on the [about
 page](http://hearthstone.oblio360.com/about)).
 
-#<a name="toc"></a>
+<a name="toc"></a>
 
 * [Required reading](#required-reading)
   * [Timmy, Johhny and Spike](#player-types)
@@ -51,13 +51,13 @@ page](http://hearthstone.oblio360.com/about)).
   * [Practice, practice, practice](#practice)
   * [Watch streams or videos](#watch)
 
-#<a name="required-reading">Required reading</a>
+# <a name="required-reading">Required reading</a>
 
 Before we start talking about Hearthstone there are some articles I consider interesting and which I think you should
 read before going further, the main reason is that this way we'll make sure that we are on the same page and talking
 about the same things.
 
-##<a name="player-types">Timmy, Johnny and Spike</a>
+## <a name="player-types">Timmy, Johnny and Spike</a>
 
 Hearthstone has been inspired by a card game called [Magic the
 Gathering](https://en.wikipedia.org/wiki/Magic:_The_Gathering) (MTG for short).
@@ -77,9 +77,9 @@ profiles they've created and which they use when designing new cards.
 For you as a player it's important to figure out what your main focus will be because depending on it you will have to
 make various decisions as how to invest your time and money (Hearthstone can be a really expensive hobby if you're not
 careful).
-#####[Go top ↑](#toc)
+##### [Go top ↑](#toc)
 
-##<a name="play-to-win">Playing to win</a>
+## <a name="play-to-win">Playing to win</a>
 
 ["Playing to win"](http://www.sirlin.net/articles/playing-to-win) is a really old article by Sirlin which applies to
 basically any competitive multiplayer game. His examples come from fighting games such as StreetFighter but the ideas
@@ -98,9 +98,9 @@ To which I'd add:
 
 * Don't burn out. Unless you're a paid professional, take a break from the grind from time to time.
 
-#####[Go top ↑](#toc)
+##### [Go top ↑](#toc)
 
-#<a name="beatdown">Who's the beatdown</a>
+# <a name="beatdown">Who's the beatdown</a>
 
 ["Who's the beatdown"](http://www.starcitygames.com/magic/fundamentals/3692_Whos_The_Beatdown.html) is another article
 about MTG which is also very relevant to Hearthstone.
@@ -113,9 +113,9 @@ about MTG which is also very relevant to Hearthstone.
 * These roles vary from game to game and even from turn to turn.
 * Never go in a game thinking that you will only have 1 role all game long.
 
-#####[Go top ↑](#toc)
+##### [Go top ↑](#toc)
 
-#<a name="wiki">Hearthstone Wiki</a>
+# <a name="wiki">Hearthstone Wiki</a>
 
 Ok, this a bit of a stretch since it's not exactly "required reading", it's more like an encyclopedia. And you should
 use it as an encyclopedia: as a reference. The place you go when you don't know something. Such as details about a class
@@ -123,9 +123,9 @@ or a card or an expansion or many other Hearthstone details I couldn't possibly 
 
 Without further ado: [Hearthstone Wiki](http://hearthstone.gamepedia.com/Hearthstone_Wiki).
 
-#####[Go top ↑](#toc)
+##### [Go top ↑](#toc)
 
-#<a name="basics">Basics of Hearthstone</a>
+# <a name="basics">Basics of Hearthstone</a>
 
 I could talk about the basics of Hearthstone but someone better than me has already done this: Trump.
 
@@ -149,14 +149,14 @@ of them):
 * [Weapons Hold](https://www.youtube.com/watch?v=xt2kLWiHnws&list=PLvEIxIeBRKSjprrvlbAcbVjzHsnH9PjDX&index=9)
 * [The Long Game](https://www.youtube.com/watch?v=oNB7qngWAT4&list=PLvEIxIeBRKSjprrvlbAcbVjzHsnH9PjDX&index=10)
 
-#####[Go top ↑](#toc)
+##### [Go top ↑](#toc)
 
-#<a name="game-modes">Game modes</a>
+# <a name="game-modes">Game modes</a>
 
 Basically everything we've discussed so far applies to all game modes in Hearthstone. So now it's time to discuss about
 game modes and see what's different in each one.
 
-##<a name="single-player">Solo adventures aka "Single player"</a>
+## <a name="single-player">Solo adventures aka "Single player"</a>
 
 While fun, this is probably the least interesting aspect of Hearthstone. It contains:
 
@@ -171,7 +171,7 @@ pay for the adventures :wink:
 Also, because Hearthstone always logs you in to the Blizzard servers, "single player" mode doesn't work when you have no
 Internet connection. So no Hearthstone practice for you while you're offline!
 
-##<a name="constructed">Play aka "Constructed"</a>
+## <a name="constructed">Play aka "Constructed"</a>
 
 Probably the biggest game mode of them all. This is the place where you can make your own decks. And the rest of this
 guide will be about the "constructed" game mode, except for the 2 sections below.
@@ -194,7 +194,7 @@ Until rank 5 if you win multiple consecutive games you will get extra stars. As 
 to rank 5. At rank 5 opponents start becoming a lot more efficient plus each loss cannot be compensated by win streaks,
 therefore the competition becomes fierce.
 
-##<a name="arena">Arena</a>
+## <a name="arena">Arena</a>
 
 Arena is the place where you make your deck from random cards. For each deck slot you're offered 3 cards and you have to
 pick one. Card rarity matters, so common cards are... common, rare cards are... rare (only several per deck), epic cards are...
@@ -206,7 +206,7 @@ you will definitely get better at arena faster than you'd do it on your own.
 
 Which is important since arena entries are not free, and if you manage to get 7+ wins constantly arena pays for itself.
 
-##<a name="brawl">Tavern Brawl aka "Brawl"</a>
+## <a name="brawl">Tavern Brawl aka "Brawl"</a>
 
 Tavern Brawl is the most casual game mode of Hearthstone. Each week a new game mode appears here with rules and decks
 made by Blizzard. Since everything is mostly random there's not much to say about it.
@@ -216,9 +216,9 @@ Just select the game mode, read the rules and see what happens.
 This mode is also great for beginners, in general, since many brawls offer you predefined decks so you are on equal
 footing with your opponents regarding the deck.
 
-#####[Go top ↑](#toc)
+##### [Go top ↑](#toc)
 
-#<a name="game-metagame">The game and the meta-game</a>
+# <a name="game-metagame">The game and the meta-game</a>
 
 When discussing or reading about Hearthstone you'll often hear about something called "the metagame". Basically
 Hearthstone is a game of cards, as we know. Each time you click "Play" and you're looking for an opponent you're going
@@ -242,7 +242,7 @@ There are 4 major parts to the metagame:
 
 * deck tweaking
 
-##<a name="deck-archetypes">Deck archetypes and styles of play</a>
+## <a name="deck-archetypes">Deck archetypes and styles of play</a>
 
 Hearthstone has millions and millions of possible decks and probably tens of viable decks. However different and varied
 they might be, they fall into 3 major deck categories or deck archetypes:
@@ -330,7 +330,7 @@ above, but they have their own twists:
 * Mill/Grinder/Fatigue: rely on either destroying key enemy cards ("milling) or prolonging the game so much that their opponent
   is killed either by a lack of responses for their actions or by fatigue damage
 
-##<a name="deck-creation">Deck creation</a>
+## <a name="deck-creation">Deck creation</a>
 
 I'm going to start with this one, even though it is by far the hardest part of Hearthstone. You've opened Hearthstone,
 clicked "My Collection" → "New Deck" and now are looking at a blank list which you will need to fill with 30 cards.
@@ -352,9 +352,9 @@ machine-type decks. You will meet all of them as you play more and more games.
 [This article](http://www.icy-veins.com/hearthstone/how-to-build-a-deck-in-hearthstone) has some good advice about
 making a deck.
 
-#####[Go top ↑](#toc)
+##### [Go top ↑](#toc)
 
-##<a name="deck-selection">Deck selection and netdecking</a>
+## <a name="deck-selection">Deck selection and netdecking</a>
 
 Ok, the next best option to creating your own deck is using a pre-existing deck (this is called "netdecking"). The
 disadvantage is that you'll be playing a deck that other players are also playing and as a result your opponents will
@@ -376,9 +376,9 @@ playing games and doing some research online. One of the most helpful sites for 
 is a pro Hearthstone team). They publish a weekly review of popular and powerful decks, called the [Meta
 Snapshot](https://tempostorm.com/hearthstone).
 
-#####[Go top ↑](#toc)
+##### [Go top ↑](#toc)
 
-##<a name="deck-tweaking">Deck tweaking, core cards, tech cards and stats tracking</a>
+## <a name="deck-tweaking">Deck tweaking, core cards, tech cards and stats tracking</a>
 
 Whether you've created a deck or "just" netdecked one, you will still need to perfect the deck, especially since the
 game evolves as players gain a better and better understanding of their decks.
@@ -419,7 +419,7 @@ Examples of tech cards:
 Be careful while changing tech cards in a netdeck as a good netdeck has been most likely been tweaked through tech cards
 to cover the deck's weakness. Try to ask a more experienced player or the deck creator before changing tech cards.
 
-#####[Go top ↑](#toc)
+##### [Go top ↑](#toc)
 
 ### Stats tracking
 
@@ -445,9 +445,9 @@ with various decks. It offers a lot of powerful features such as:
 
 Really useful and powerful, definitely recommended if you're the competitive, Spike, type.
 
-#####[Go top ↑](#toc)
+##### [Go top ↑](#toc)
 
-#<a name="basic-decks">Basic decks</a>
+# <a name="basic-decks">Basic decks</a>
 
 Courtesy of Sheng from [hearthstonecoaching.gom](http://www.hearthstonecoaching.com/), a set of [good basic
 decks](http://www.reddit.com/r/hearthstone/comments/2fgq0x/basic_deck_guides_for_all_9_classes_0_dust/).
@@ -463,9 +463,9 @@ both.
 I also recommend that you do not make any serious investment decisions regarding Hearthsone before you play a bit with
 all these decks. Otherwise you might regret your initial decision terribly later on :smile:
 
-#####[Go top ↑](#toc)
+##### [Go top ↑](#toc)
 
-#<a name="budget-decks">Budget decks</a>
+# <a name="budget-decks">Budget decks</a>
 
 Now we're getting to the more volatile sections. These decks were made during the period after the Blackrock Mountain
 adventure (BRM for short) and before the Grand Tournament (TGT for short) release. 
@@ -492,9 +492,9 @@ And if you are here, then you probably want to improve, so you are competitive, 
  
 Again, courtesy of Sheng, a set of [good budget decks](https://www.reddit.com/r/hearthstone/comments/3e1mso/shengs_1000_dust_budget_decks_for_new_players/).
 
-#####[Go top ↑](#toc)
+##### [Go top ↑](#toc)
 
-#<a name="budget-management">Budget management</a>
+# <a name="budget-management">Budget management</a>
 
 You might be wondering: "What budget management are you talking about?". Well, your wallet.
 
@@ -554,11 +554,11 @@ card is. Plus many "bad" cards suddenly become useful when a strong deck is crea
 
 As I said, this section deserves its own (probably huge, article).
 
-#####[Go top ↑](#toc)
+##### [Go top ↑](#toc)
 
-#<a name="progress">How to progres</a>
+# <a name="progress">How to progres</a>
 
-##<a name="practice">Practice, practice, practice</a>
+## <a name="practice">Practice, practice, practice</a>
 
 Kind of obvious: as you play more you become better and better at Hearthstone.
 
@@ -575,9 +575,9 @@ For example:
     * 4. based on your stats tweak your deck if your win rate over a larger number of games is low (50% or less)
     * 5. if after tweaking your win rate still stays low, change decks
 
-#####[Go top ↑](#toc)
+##### [Go top ↑](#toc)
 
-##<a name="watch">Watch streams or videos</a>
+## <a name="watch">Watch streams or videos</a>
 
 Another way to become better is to watch better players. Watch their games and ask yourself after each play:
 
@@ -628,7 +628,7 @@ of data as expansions appear they still cover a wide variety of playstyles.
 [![Kolento Youtube](/images/posts/common/youtube.png)](https://www.youtube.com/channel/UC3oHeWsu0w2I_4JnwHTz-Tw)
 [![Kolento Twitch](/images/posts/common/twitch.png)](http://www.twitch.tv/kolento)
 
-#####[Go top ↑](#toc)
+##### [Go top ↑](#toc)
 
 And for the daring souls that got this far...
 
