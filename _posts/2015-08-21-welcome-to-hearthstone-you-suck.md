@@ -77,6 +77,7 @@ profiles they've created and which they use when designing new cards.
 For you as a player it's important to figure out what your main focus will be because depending on it you will have to
 make various decisions as how to invest your time and money (Hearthstone can be a really expensive hobby if you're not
 careful).
+
 ##### [Go top ↑](#toc)
 
 ## <a name="play-to-win">Playing to win</a>
@@ -490,7 +491,8 @@ Of course, you don't need a full collection to play, but to really enjoy the exp
 
 And if you are here, then you probably want to improve, so you are competitive, you are "Spike".
  
-Again, courtesy of Sheng, a set of [good budget decks](https://www.reddit.com/r/hearthstone/comments/3e1mso/shengs_1000_dust_budget_decks_for_new_players/).
+Again, courtesy of Sheng, a set of [good budget
+decks](https://www.reddit.com/r/hearthstone/comments/3e1mso/shengs_1000_dust_budget_decks_for_new_players/).
 
 ##### [Go top ↑](#toc)
 
