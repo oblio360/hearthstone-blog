@@ -104,6 +104,18 @@ a.sidebar-nav-item:focus {
   font-weight: bold;
 }
 
+.adslot_1  {
+  width: 260px;
+  height: 100px;
+ }
+
+@media (min-height: 1100px) {
+  .adslot_1 {
+    width: 280px;
+    height: 550px;
+  }
+}
+
 .archive-box {
   border: 1px solid #d84315;
   text-align: left;
