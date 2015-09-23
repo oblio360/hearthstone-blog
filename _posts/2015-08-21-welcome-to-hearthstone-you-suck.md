@@ -593,8 +593,8 @@ my play and with his play?
 * Game modes: constructed.
 * Favorite classes: Mage, Warlock, Paladin.
 
-[![StrifeCro Youtube](/images/posts/common/youtube.png)](https://www.youtube.com/user/strifecro)
-[![StrifeCro Twitch](/images/posts/common/twitch.png)](http://www.twitch.tv/strifecro)
+[![StrifeCro Youtube](/images/common/youtube.png)](https://www.youtube.com/user/strifecro)
+[![StrifeCro Twitch](/images/common/twitch.png)](http://www.twitch.tv/strifecro)
 
 **Trump**
 
@@ -607,8 +607,8 @@ I'd recommend also watching his [teaching for Hearthstone
 decks](https://www.youtube.com/playlist?list=PLvEIxIeBRKShebsK_0f5_WbnaMVmWVXDL). Even though some of them might be out
 of data as expansions appear they still cover a wide variety of playstyles.
 
-[![Trump Youtube](/images/posts/common/youtube.png)](https://www.youtube.com/user/TrumpSC)
-[![Trump Twitch](/images/posts/common/twitch.png)](http://www.twitch.tv/trumpsc)
+[![Trump Youtube](/images/common/youtube.png)](https://www.youtube.com/user/TrumpSC)
+[![Trump Twitch](/images/common/twitch.png)](http://www.twitch.tv/trumpsc)
 
 **Kripparian**
 
@@ -617,8 +617,8 @@ of data as expansions appear they still cover a wide variety of playstyles.
 * Game modes: arena.
 * Favorite classes: Mage.
 
-[![Kripparian Youtube](/images/posts/common/youtube.png)](https://www.youtube.com/user/Kripparrian)
-[![Kripparian Twitch](/images/posts/common/twitch.png)](http://www.twitch.tv/nl_kripp)
+[![Kripparian Youtube](/images/common/youtube.png)](https://www.youtube.com/user/Kripparrian)
+[![Kripparian Twitch](/images/common/twitch.png)](http://www.twitch.tv/nl_kripp)
 
 **Kolento**
 
@@ -627,8 +627,8 @@ of data as expansions appear they still cover a wide variety of playstyles.
 * Game modes: constructed.
 * Favorite classes: Priest.
 
-[![Kolento Youtube](/images/posts/common/youtube.png)](https://www.youtube.com/channel/UC3oHeWsu0w2I_4JnwHTz-Tw)
-[![Kolento Twitch](/images/posts/common/twitch.png)](http://www.twitch.tv/kolento)
+[![Kolento Youtube](/images/common/youtube.png)](https://www.youtube.com/channel/UC3oHeWsu0w2I_4JnwHTz-Tw)
+[![Kolento Twitch](/images/common/twitch.png)](http://www.twitch.tv/kolento)
 
 ##### [Go top ↑](#toc)
 

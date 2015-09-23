@@ -89,7 +89,7 @@ html {
 /* Sidebar nav */
 .sidebar-nav {
   margin-top: 10px;
-  padding-left: 0;
+  padding-left: 5px;
   list-style: none;
   border: 1px solid #d84315;
 }
