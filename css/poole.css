@@ -163,7 +163,6 @@ pre {
   padding: 1rem;
   font-size: .8rem;
   line-height: 1.4;
-  white-space: pre;
   white-space: pre-wrap;
   word-break: break-all;
   word-wrap: break-word;
@@ -203,7 +202,7 @@ blockquote p:last-child {
 img {
   display: inline;
   margin: 0 0 0.3rem;
-  border-radius: 5px;
+  border-radius: 2px;
   max-width: 100%;
 }
 
@@ -339,7 +338,7 @@ tbody tr:nth-child(odd) th {
 #___plusone_0 {
   width: 63px !important;
   position: relative;
-  left: 0px;
+  left: 0;
 }
 
 .twitter-share-button {
