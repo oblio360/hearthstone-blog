@@ -30,7 +30,7 @@ One of Blizzard's competitors, Valve, has been trying to sidestep this whole pro
 based on cosmetic items.
 
 ^(Doesn't she look dashing?)
-<img src="/images/posts/hearthstone-workshop/lina-set.png" alt="Lina Cosmetic Set" style="float: right;">
+<img src="/images/posts/hearthstone-workshop/lina-set.png" alt="Lina Cosmetic Set" style="float: right; margin: 10px;">
 
 Two of Valve's most important games, Dota 2 and Team Fortress 2, are free to play. Another one, Counter-Strike: Global
 Offensive, is very cheap.
@@ -48,6 +48,8 @@ they'd be interested in buying cosmetic enhancements for Hearthstone (I'll just 
 Since the survey it has also added the hero skins: Rexxar can become Alleria, Jaina can become Medivh, Garrosh can
 become Magni.
 
+![Warrior skins: Garrosh vs Magni](/images/posts/hearthstone-workshop/warrior.png)
+
 However, the real problem, as any Blizzard fan knows, is the glacial speed at which these changes are made. The only
 cosmetic items in the game are 3 hero skins, almost 2 years after the game launch.
 
@@ -62,8 +64,9 @@ Anyway, in Valve's case, Valve does not create the majority of these items. The 
 [Valve guidelines](http://media.steampowered.com/apps/dota2/workshop/Dota2CharacterArtGuide.pdf) and if the items are
 good, after a review, they are included in the game. Once the items are in the game they are sold and Valve gets a cut.
 
-The sytem is win-win-win :heavy_dollar_sign::heavy_dollar_sign::heavy_dollar_sign:. The players win because they have more high quality items to buy, the
-artists win because they get money from items they've created, Valve wins because it gets a fee for each sale.
+The sytem is win-win-win :heavy_dollar_sign::heavy_dollar_sign::heavy_dollar_sign:. The players win because they have
+more high quality items to buy, the artists win because they get money from items they've created, Valve wins because it
+gets a fee for each sale.
 
 I can only think of 2 possible drawbacks for players:
 
@@ -87,8 +90,10 @@ Individual card skins would be, in my opinion, a bad idea. The main reason being
 many players would be afraid of buying a skin for a specific card fearing that it might not be a good investment.
 
 That's why I thought of card sets. Eaglehorn Bow, on its own, might be abandoned sometime in the future. But a set of
-cosmetic skins for Eaglehorn Bow, Unleash the Hounds, Knife Juggler, Explosive Trap, Freezing Trap and Mad Scientist
+cosmetic skins for Eaglehorn Bow, Unleash the Hounds, Explosive Trap, Freezing Trap and Mad Scientist
 would probably have a long shelf life.
+
+![Meet the Hunter](/images/posts/hearthstone-workshop/meet-the-hunter.png)
 
 When used together, they could have a powerful thematic effect (maybe even some sort of interaction?). When one of the
 cards fall out of popularity, the rest are still relevant. Including strong neutral cards in the set would make sure
@@ -102,3 +107,7 @@ Besides this "Meet the Hunter" set, here are 2 other examples I thought about:
 "Life Tap": Mal'ganis, Dr. Boom, Implosion, Knife Juggler, Mortal Coil.
 
 Same concept: strong cards, preferably that fit multiple archetypes, and 1 neutral per set.
+
+So my question would be:
+
+Do you think that a Blizzard workshop would be a good idea? If not, why?
