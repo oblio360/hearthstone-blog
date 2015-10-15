@@ -290,7 +290,7 @@ expedition.
 Besides the legendaries we've already reviewed, some legendaries have either faded into the past or only wacky decks
 play them. Here they are:
 
-Legendary name | Why is is not played
+Legendary name | Why is is not played?
 -------------- | --------------------
 Onyxia         | Too slow. She does seem interesting, though.
 Nozdormu       | Too slow, dies to BGH, too freaky.
