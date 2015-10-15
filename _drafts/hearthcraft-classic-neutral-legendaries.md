@@ -10,6 +10,14 @@ One of the most important things as a new player is to decide which cards you're
 Unless your name is Donald Trump, you're probably going to want to not throw a lot of
 :heavy_dollar_sign::heavy_dollar_sign::heavy_dollar_sign: on cards you will later not use.
 
+<p style="color: darkred;">Keep in mind that this guide is meant for players who want to make a collection as large as possible, so that they can
+play a varied collection of decks at their full potential. If you're someone who loves to play the same class or
+archetype over and over and over again, your crafting priority will be different and most likely entirely focused on
+the class or archetype you love.
+<br>
+Also, this guide is meant as a long term guide. As a result some cards have been selected because they are close to
+being viable now and it's not hard to predict that they will become usable once Hearthstone's card pool becomes richer.</p>
+
 Hearthstone has a lot of cards so I've decided to make several articles about this topic, each one of them covering a
 different part of the ever-growing Hearthstone collection. As new expansions appear I will publish new articles, so stay
 tuned!
@@ -23,10 +31,6 @@ tuned!
 
 Let's get started. I'll list the cards according to their crafting priority.
 
-Keep in mind that this guide is meant for players who want to make a collection as large as possible, so that they can
-play a varied collection of decks at their full potential. If you're someone who loves to play the same class or
-archetype over and over and over again, your crafting priority will be different and most likely entirely focused on
-the class or archetype you love.
 
 # Must have
 
