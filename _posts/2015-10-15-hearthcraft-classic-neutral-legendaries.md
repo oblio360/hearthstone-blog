@@ -38,17 +38,17 @@ Let's get started. I'll list the cards according to their crafting priority.
 These are the cards that are most likely to be used in decks you create or you find on the internet. They are so
 powerful or versatile that most players would consider them better than the alternatives.
 
-## Sylvannas Windrunner
+## Sylvanas Windrunner
 
-<img alt="Sylvannas Windrunner" src="/images/common/sylvannas-windrunner.png" style="float: right;">
+<img alt="Sylvanas Windrunner" src="/images/common/sylvannas-windrunner.png" style="float: right;">
 
-Sylvannas is a staple of many control and midrange decks. Besides the solid 5/5 body she comes with a game-swinging
+Sylvanas is a staple of many control and midrange decks. Besides the solid 5/5 body she comes with a game-swinging
 deathrattle: she steals an enemy minion. As a 5/5 she can deal with most aggro deck minions (which are usually high
 attack - low HP minions) or she can suicide into the control deck's "bomb" and steal the damage unit after she dies.
 Either way, decent against aggro and a huge swing against midrange and control decks. She tends to provoke awkward
 trades or overextension by board flooding (thus playing directly into AOE).
 
-Sylvannas can be seen in a large number of decks and she has "survived" 2 expansions and 2 adventures already. Unless
+Sylvanas can be seen in a large number of decks and she has "survived" 2 expansions and 2 adventures already. Unless
 major [power creep](https://en.wikipedia.org/wiki/Power_creep) occurs, she will still be seen in many decks in the
 future.
 
