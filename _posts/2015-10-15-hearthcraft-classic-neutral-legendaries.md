@@ -6,23 +6,24 @@ title: "HearthCraft Episode 1: Classic set - neutral legendaries"
 Hello, I'm *oblio* and I'll be your host for a new series called "Which cards should I craft first as a new
 Hearthstone player?". That's a mouth-full, so I'll just call it "HearthCraft" from now on :smile:
 
-One of the most important things as a new player is to decide which cards you're going to craft with your spare dust.
-Unless your name is Donald Trump, you're probably going to want to not throw a lot of
-:heavy_dollar_sign::heavy_dollar_sign::heavy_dollar_sign: on cards you will later not use.
+One of the most important things you have to decide as a new player is: which cards you're going to craft with your
+spare dust.  Unless your name is Donald Trump, you probably don't want to throw a lot of
+:heavy_dollar_sign::heavy_dollar_sign::heavy_dollar_sign: on cards you will not use.
 
-<p style="color: darkred;">Keep in mind that this guide is meant for players who want to make a collection as large as possible, so that they can
-play a varied collection of decks at their full potential. If you're someone who loves to play the same class or
-archetype over and over and over again, your crafting priority will be different and most likely entirely focused on
-the class or archetype you love.
-<br>
-Also, this guide is meant as a long term guide. As a result some cards have been selected because they are close to
-being viable now and it's not hard to predict that they will become usable once Hearthstone's card pool becomes richer.</p>
+<p style="padding: 10px; border: 2px solid darkgrey; color: darkred;">This guide is meant for players who want a
+collection that allows them to play the highest variety of competitive decks. If you love to play the same class or
+archetype over and over and over again, your crafting priority will be different.
+<br> 
+This guide is also meant as a long term guide. This means that some cards have been selected because they are close to
+being viable now and it's not hard to predict that they will become usable once Hearthstone's card pool becomes
+bigger.</p>
 
 Hearthstone has a lot of cards so I've decided to make several articles about this topic, each one of them covering a
-different part of the ever-growing Hearthstone collection. As new expansions appear I will publish new articles, so stay
-tuned!
+different part of the ever-growing Hearthstone collection. As new expansions appear I will publish new articles and I
+will link them here, so stay tuned!
 
-* HearthCraft Episode 1: Classic set - neutral legendaries (you are here)
+* [HearthCraft Episode 1: Classic set - neutral
+  legendaries](http://hearthstone.oblio360.com/2015/10/15/hearthcraft-classic-neutral-legendaries/) (you are here)
 * HearthCraft Episode 2: Classic set - neutral epics
 * HearthCraft Episode 3: Classic set - neutral rares (part 1)
 * HearthCraft Episode 4: Classic set - neutral rares (part 2)
@@ -261,7 +262,7 @@ friendly minion plus 2 damage to your own hero, on top of that.
 
 <img alt="King Mukla" src="/images/common/king-mukla.png" style="float:right;">
 
-And unlikely contender for the list, I admit, Mukla can fit some very interesting niches. He's been used successfully as
+An unlikely contender for the list, I admit, Mukla can fit some very interesting niches. He's been used successfully as
 part of Face Hunter decks (Mukla is a beast, literally) and Aggro Paladin ([Divine
 Favor](http://hearthstone.gamepedia.com/Divine_Favor) can draw more cards of off the
 bananas you give your opponent).
