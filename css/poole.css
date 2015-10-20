@@ -50,7 +50,7 @@ body {
 }
 
 html {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: Helvetica, Arial, sans-serif;
   font-size: 16px;
   line-height: 1.5;
 }
@@ -285,9 +285,22 @@ tbody tr:nth-child(odd) th {
  * page is wrapped in `.page` and is only used on the page layout.
  */
 
+.pin-container {
+  text-align: right;
+}
+
+.pin {
+  width: 30px;
+  height: 30px;
+}
+
 .page,
 .post {
   margin-bottom: 4em;
+  padding-top: 1em;
+  padding-left: 1em;
+  padding-right: 1em;
+  box-shadow: 0px 1px 5px grey;
 }
 
 /* Blog post or page title */
