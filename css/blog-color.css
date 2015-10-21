@@ -1,0 +1,12 @@
+.menu-container {
+    background-color: #d84315;
+}
+
+.sidebar a {
+    color: #d84315;
+}
+
+.theme-base .content a,
+.theme-base .related-posts li a:hover {
+    color: #d84315;
+}
