@@ -13,14 +13,14 @@
         <a href="/about" class="menu-entry {% if page.title == 'About' %}active{% endif %}">About</a>
     </div>
 
-    {% include ads.html %}
-
     <ul class="archive-box">
-      <a href="/archive"><b>Recent articles</b></a>
-      {% for post in site.posts limit:10 %}
+        <a href="/archive"><b>Recent articles</b></a>
+        {% for post in site.posts limit:10 %}
         <li class="archive-list"><a href="{{ post.url }}">{{ post.title }}</a></li>
-      {% endfor %}
+        {% endfor %}
     </ul>
+
+    {% include ads.html %}
 
     {% include license.html %}
 </div>
