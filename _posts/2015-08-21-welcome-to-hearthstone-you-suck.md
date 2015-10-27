@@ -8,4 +8,4 @@ title: "Welcome to Hearthstone, you suck!"
 The original article title was an obscure joke. Since the guide is meant for newbies and it was supposed to be as clear
 and straightforward as possible, I've since renamed the article, updated it and now you can find it here:
 
-[Welcome to Hearthstone, a comprehensive Hearthstone guide](//2015-10-25-welcome-to-hearthstone-guide.md).
+[Welcome to Hearthstone, a comprehensive Hearthstone guide](//2015/10/25/welcome-to-hearthstone-guide).
