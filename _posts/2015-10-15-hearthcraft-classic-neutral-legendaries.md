@@ -40,7 +40,7 @@ powerful or versatile that most players would consider them better than the alte
 
 ## Sylvanas Windrunner
 
-<img alt="Sylvanas Windrunner" src="/images/common/sylvannas-windrunner.png" style="float: right;">
+<img alt="Sylvanas Windrunner" src="/images/common/sylvanas-windrunner.png" style="float: right;">
 
 Sylvanas is a staple of many control and midrange decks. Besides the solid 5/5 body she comes with a game-swinging
 deathrattle: she steals an enemy minion. As a 5/5 she can deal with most aggro deck minions (which are usually high
@@ -52,7 +52,7 @@ Sylvanas can be seen in a large number of decks and she has "survived" 2 expansi
 major [power creep](https://en.wikipedia.org/wiki/Power_creep) occurs, she will still be seen in many decks in the
 future.
 
-*I have no time for games. (Really?)*
+* * *
 
 ## Ysera
 
@@ -75,7 +75,7 @@ into fatigue first.
 
 Overall, a very solid card in slower metas and a staple of the dragon "tribe".
 
-*I dream and the world trembles. (She's right!)*
+* * *
 
 ## Alexstrasza
 
@@ -90,7 +90,7 @@ and it is a very powerful effect in many circumstances.
 Especially for new players Alexstrasza provides one of the best examples of "good card": instant, powerful effect on the
 game.
 
-*I bring life and hope. (50% of the time.)*
+* * *
 
 ## Ragnaros the Firelord
 
@@ -98,7 +98,7 @@ game.
 
 Ragnaros is staple of midrange or control decks. He is a weird minion, more like a turret than an actual minion, since he
 cannot attack directly. Instead, at the end of the round he does 8 damage to a random enemy target. You can think of him
-as a [Demolisher](http://hearthstone.gamepedia.com/Demolisher) on steroids.
+as a <a href="http://www.hearthpwn.com/cards/212-demolisher">Demolisher</a> on steroids.
 
 Ragnaros is the epitome of big threat: 8 mana for 8/8 stats, does 8 damage to a random enemy. In most situations he
 cannot be ignored so he is used as a sort of "timer".
@@ -106,7 +106,7 @@ cannot be ignored so he is used as a sort of "timer".
 Against aggro decks he is only used to race while against midrange and control decks he is usually used for a 50-50
 chance of destroying a huge enemy threat or to bring the enemy into lethal range.
 
-*Die, insect! (Can't argue with that.)*
+* * *
 
 ## Harrison Jones
 
@@ -114,12 +114,13 @@ chance of destroying a huge enemy threat or to bring the enemy into lethal range
 
 Harrison Jones is a bit of an odd-ball on the "must have" list. He's not the staple of any deck. With his 5/4 stats and
 his quirky battlecry, he can't really be. He is however one of the most common "tech cards". Any time classes with
-weapons flood the metagame, Harrison is bound to show up. Together with his smaller brother, [Acidic Swamp
-Ooze](http://hearthstone.gamepedia.com/Acidic_Swamp_Ooze). Or, for the more desperate amongst us, [Bloodsail
-Corsair](http://hearthstone.gamepedia.com/Bloodsail_Corsair).
+weapons flood the metagame, Harrison is bound to show up. Together with his smaller brother, <a
+href="http://www.hearthpwn.com/cards/74-acidic-swamp-ooze">Acidic Swamp Ooze</a>. Or, for the more desperate amongst us,
+<a href="http://www.hearthpwn.com/cards/453-bloodsail-corsair">Bloodsail Corsair</a>.
 
-There are 4 classes which can have weapons:
+There are 5 classes which can have weapons:
 
+* Rogue
 * Warrior
 * Hunter
 * Paladin
@@ -130,19 +131,19 @@ result, Harrison is a common sight in decks. Even if he's not "must have" in the
 without him, you will want to have him in those moments of need.
 
 Against aggro and midrange decks Harrison is used either as a vanilla 5 mana 5/4 (quite underwhelming) or as a weapon
-removal in a crucial moment in the game (for example against a Hunter with a [Eaglehorn
-Bow](http://hearthstone.gamepedia.com/Eaglehorn_Bow) and a trap in play). If the midrange deck is slower he might even
-be used for the second part of his battlecry, card drawing.
+removal in a crucial moment in the game (for example against a Hunter with a <a
+href="http://www.hearthpwn.com/cards/363-eaglehorn-bow">Eaglehorn Bow</a> and a trap in play). If the midrange deck is
+slower he might even be used for the second part of his battlecry, card drawing.
 
 Against control Harrison is used in the same way, but with less emphasis on playing him without benefiting from his
 battlecry, and a lot more emphasis on drawing several cards when possible.
 
-*That belongs in a museum. (Nooooo... my Doomhammer!)*
+* * *
 
 # Nice to have
 
-These are cards which are not seen as often in powerful decks as the "must haves". Nonetheless, they are strong cards
-and depending on personal preference they can crafted sooner and you will not regret your decision.
+These are cards which are not seen as often in powerful decks as the "must haves". Nonetheless, they are decent cards
+and if you have all the "must haves" and want to craft another card, these are some of the next best cards.
 
 ## Bloodmage Thalnos
 
@@ -159,7 +160,7 @@ to kill the enemy, destroy a minion or there's a dire need for another card.
 
 One could say that he's the [redshirt](https://en.wikipedia.org/wiki/Redshirt_%28character%29) of Hearthstone.
 
-*We hngngngnr for vengeance. (Is he a Murloc skeleton by any chance? What's with the "hngngngr"?)*
+* * *
 
 ## Malygos
 
@@ -171,10 +172,12 @@ be used because Malygos himself costs 9 mana. And once Malygos is on the board t
 kill him.
 
 As a result Malygos is a bit less consistent than Ysera. Still, players have found ways to include him in top-tier decks
-and even if you're not that competitive, he's the kind of Minion that can really make for [interesting
+and even if you're not that competitive, he's the kind of minion that can really make for [interesting
 videos](https://www.youtube.com/watch?v=bkOYGkQ3iMU).
 
-*I am the essence of magic!.*
+<br>
+
+* * *
 
 ## Leeroy Jenkins
 
@@ -188,7 +191,9 @@ mana.
 
 He is still a solid card if you're more into aggro/face decks.
 
-*Leeeeeeeerroooooooy Jeeeeenki.... (Oh, shut up already!)*
+<br>
+
+* * *
 
 ## The Black Knight
 
@@ -200,47 +205,10 @@ conditions: destroy an enemy with taunt.
 
 His effect is strong but he is a lot more situational than Harrison (and also 1 mana more expensive, another important
 factor) and as a result he is not in the list of "must haves". However, when Ramp Druids, Handlocks or other classes
-with an emphasis on taunts pop up en-masse, TBK is the go-to-minion (together with his little brother, [Ironbeak
-Owl](http://hearthstone.gamepedia.com/Ironbeak_Owl)).
+with an emphasis on taunts pop up en-masse, TBK is the go-to-minion (together with his little brother, <a
+href="http://www.hearthpwn.com/cards/500-ironbeak-owl">Ironbeak Owl</a>.
 
-*None shall pass! (I'm a little confused here, but ok)*
-
-## Deathwing
-
-<img alt="Deathwing" src="/images/common/deathwing.png" style="float:right;">
-
-The biggest, baddest dragon of them all. 10 mana for a 12/12 that also clear the board, entirely. But he also discards
-your whole hand.
-
-Deathwing is the epitome of face smashing. You will see him in strange aggro decks that want a flashy finisher or in
-control decks built around dragons.
-
-He is also extremely, extremely slow against aggro decks, since you can usually only play him on turn 10 (you might
-already be dead by turn 7...).
-
-A wonderfully designed card. It's a pity that he lives in a world with [Big Game
-Hunters](http://hearthstone.gamepedia.com/Big_Game_Hunter) (BGH),
-[Annoy-o-trons](http://hearthstone.gamepedia.com/Annoy-o-Tron) and [Sludge
-Belchers](http://hearthstone.gamepedia.com/Sludge_Belcher).
-
-*I am power incarnate! (Somehow, [I don't believe
-that.](http://kimoss.deviantart.com/art/Deathwing-vs-Annoy-o-tron-513659829))*
-
-
-## Cairne Bloodhoof
-
-<img alt="Cairne Bloodhoof" src="/images/common/cairne-bloodhoof.png" style="float:right;">
-
-Cairne is the epitome of value. For 6 mana you're getting 8/10 worth of stats distributed in 2 rather solid bodies. He
-was once a staple of control decks.
-
-Unfortunately, right now a 4-attack value isn't strong enough since it doesn't trade well into the usual 5/5s played on
-turn 5 or 6. And it also can't one-shot the first half of Sludge Belcher.
-
-However, Cairne still packs a lot of stats together with a useful and consistent deathrattle. It's hard to discount the
-old Tauren forever.
-
-*Take heart, young one. The Earth Mother is near. (I :heart: taurens!)*
+* * *
 
 ## Baron Geddon
 
@@ -256,7 +224,71 @@ time.
 Unfortunately for him, there aren't many classes in Hearthstone that can take the self-punishment of 2 damage to every
 friendly minion plus 2 damage to your own hero, on top of that.
 
-*You... will buuurn! (For at least 1 round!)*
+* * *
+
+## Captain Greenskin
+
+<img alt="Captain Greenskin" src="/images/common/captain-greenskin.png" style="float:right;">
+
+The last neutral legendary in the Classic set to make the cut for the list is Captain Greenskin. As a 5/5 body for 5
+mana, he is underwhelming, but he comes with a decent battlecry and is part of the "pirate" tribe.
+
+If there's ever a chance for the pirates to become popular, you can bet that Captain Greenskin will be part of them.
+Every now and then a Pirate deck appears, usually Pirate Rogue, and every time Captain Greenskin is the leader of the
+expedition.
+
+<br><br>
+
+* * *
+
+## Cairne Bloodhoof
+
+<img alt="Cairne Bloodhoof" src="/images/common/cairne-bloodhoof.png" style="float:right;">
+
+Cairne is the epitome of value. For 6 mana you're getting 8/10 worth of stats distributed in 2 rather solid bodies. He
+was once a staple of control decks.
+
+Unfortunately, right now a 4-attack value isn't strong enough since it doesn't trade well into the usual 5/5s played on
+turn 5 or 6. And it also can't one-shot the first half of Sludge Belcher.
+
+However, Cairne still packs a lot of stats together with a useful and consistent deathrattle. It's hard to discount the
+old Tauren forever.
+
+<br>
+
+* * *
+
+## Onyxia
+
+<img alt="Onyxia" src="/images/common/onyxia.png" style="float:right;">
+
+The daughter of Deathwing (we'll meet him a little bit later). For 9 mana you get a solid 8/8 body and as many 1/1
+whelps as you can fit on your side of the board.
+
+Like many other legendaries, she fails the <a href="http://www.hearthpwn.com/cards/73-big-game-hunter">Big Game
+Hunter</a> (BGH) test. Her main body has over 7 damage so it can be taken out by the annoying, yet powerful dwarf.
+Still, unlike many other legendaries in our next section, she still leaves behind the pack of whelps she summons.
+
+Onyxia is a bit slow but with the right setup it's not hard to think that she might become useful in future competitive
+decks.
+
+* * *
+
+## Hogger
+
+<img alt="Hogger" src="/images/common/hogger.png" style="float:right;">
+
+Hogger is another odd-ball. He costs 6 mana and has a very small body for that price (4/4 instead of the 6/7 expected
+for this cost). To make up for it, at the end of his turn he summons a 2/2 taunt.
+
+This summoning ability can't really make up for the fact that his main body is killed quite easily, therefore Hogger is
+not seen very often in decks. He does pop up from time to time, and with a bit of setup he can be useful in token decks
+(decks which rely on a large number of small minions).
+
+<br>
+
+* * *
+
 
 ## King Mukla
 
@@ -271,20 +303,31 @@ Mukla is the epitome of tempo: you get a 5/5 beast on round 3. He can trade at l
 least 5 face damage. The bananas he gives your opponent can backfire and that's why he's not higher on the list. But in
 the right deck your enemies won't have a lot of time to digest their bananas...
 
-*Raaaawwwrr! (I think!)*
+<br>
 
-## Captain Greenskin
+* * *
 
-<img alt="Captain Greenskin" src="/images/common/captain-greenskin.png" style="float:right;">
+## Deathwing
 
-The last neutral legendary in the Classic set to make the cut for the list is Captain Greenskin. As a 5/5 body for 5
-mana, he is underwhelming, but he comes with a decent battlecry and is part of the "pirate" tribe.
+<img alt="Deathwing" src="/images/common/deathwing.png" style="float:right;">
 
-If there's ever a chance for the pirates to become popular, you can bet that Captain Greenskin will be part of them.
-Every now and then a Pirate deck appears, usually Pirate Rogue, and every time Captain Greenskin is the leader of the
-expedition.
+Probably the most controversial pick. However, I doubt that anyone can argue with my next statement...
 
-*Drink up, me hearties!*
+Deathwing is the biggest, baddest dragon of them all. 10 mana for a 12/12 that also clears the board, entirely. Deathwing
+is the epitome of face smashing. 
+
+But he also discards your whole hand.
+
+You will see him in strange aggro decks that want a flashy finisher or in control decks built around dragons.
+
+He is also extremely, extremely slow against aggro decks, since you can usually only play him on turn 10 (you might
+already be dead by turn 7...).
+
+A wonderfully designed card. It's a pity that he lives in a world with BGHs, <a
+href="http://www.hearthpwn.com/cards/12181-annoy-o-tron">Annoy-o-trons</a> and <a
+href="http://www.hearthpwn.com/cards/7749-sludge-belcher">Sludge Belchers</a>.
+
+* * *
 
 # Forgotten & crazy legendaries
 
@@ -293,15 +336,13 @@ play them. Here they are:
 
 Legendary name | Why is is not played?
 -------------- | --------------------
-Onyxia         | Too slow. She does seem interesting, though.
-Nozdormu       | Too slow, dies to BGH, too freaky.
-Gruul          | Too slow, dies to BGH.
-Hogger         | Body too small, doesn't trade well.
-Illidan Stormrage | Dies to BGH, it's hard to trigger him many times.
-The Beast      | Dies to BGH and then helps your opponent.
-Tinkmaster Overspark | Too risky. It's too easy to give your opponent a 5/5 or turn your own big minion into a 1/1.
-Lorewalker Cho | No deck can afford to play 0 spells.
-Millhouse Manastorm | No deck can afford to let the opponent play **all** his spells in 1 turn, for free.
-Nat Pagle      | Too slow, too risky, doesn't trade at all.
+<a href="http://www.hearthpwn.com/cards/285-nozdormu">Nozdormu</a>       | Too slow, dies to BGH, too freaky.
+<a href="http://www.hearthpwn.com/cards/18-gruul">Gruul</a>          | Too slow, dies to BGH.
+<a href="http://www.hearthpwn.com/cards/203-illidan-stormrage">Illidan Stormrage</a> | Dies to BGH, it's hard to trigger him many times.
+<a href="http://www.hearthpwn.com/cards/179-the-beast">The Beast</a>      | Dies to BGH and then helps your opponent.
+<a href="http://www.hearthpwn.com/cards/245-tinkmaster-overspark">Tinkmaster Overspark</a> | Too risky. It's too easy to give your opponent a 5/5 or turn your own big minion into a 1/1.
+<a href="http://www.hearthpwn.com/cards/456-lorewalker-cho">Lorewalker Cho</a> | No deck can afford to play 0 spells.
+<a href="http://www.hearthpwn.com/cards/339-millhouse-manastorm">Millhouse Manastorm</a> | No deck can afford to let the opponent play **all** his spells in 1 turn, for free.
+<a href="http://www.hearthpwn.com/cards/19-nat-pagle">Nat Pagle</a>      | Too slow, too risky, doesn't trade at all.
 
 And here we have it, folks. Stay tuned for the next episodes!
