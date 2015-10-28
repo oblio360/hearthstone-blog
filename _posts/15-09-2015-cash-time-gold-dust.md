@@ -12,6 +12,9 @@ Either by tricking you towards impulse buying ("This skin for my character is co
 awesome!") or by stuffing ads everywhere and anywhere or by many other mischevious means.
 
 As a result one of the most important things you will need to manage in Hearthstone is your budget.
+
+<br>
+
 ![Gold](/images/posts/cash-time-gold-dust/gold.jpg)
 
 For that you will need to be able to play the game at a profficient level, so that your "investment decisions" are solid
