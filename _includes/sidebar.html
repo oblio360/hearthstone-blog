@@ -16,7 +16,7 @@
 
         <ul class="archive-box">
             <a href="/archive"><b>Recent articles</b></a>
-            {% for post in site.posts limit:10 %}
+            {% for post in site.posts limit:4 %}
             <li class="archive-list"><a href="{{ post.url }}">{{ post.title }}</a></li>
             {% endfor %}
         </ul>
