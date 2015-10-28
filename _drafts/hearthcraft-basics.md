@@ -11,6 +11,8 @@ When I wrote the original article I wanted to finish the full series, presenting
 worthy of crafting. However, based on feedback I decided that I should actually start with a general guide to crafting
 in Hearthstone.
 
+<img src="/images/posts/hearthcraft-basics/dust.jpeg" alt="Dust" style="display: block; margin: 0 auto;">
+
 <a name="toc"></a>
 
 ### TL;DR
@@ -171,6 +173,18 @@ href="http://www.hearthpwn.com/cards/94-molten-giant">Molten Giant</a> is a key 
 the same way without Molten Giants. As a result 2x Molten Giants is a high priority for any player that wants to play
 Handlock.
 
-In case you're wondering which are the key cards. This topic deserves its own article... stay tuned!
+As a general rule, many of the key cards you will craft are rares and epics. For commons it's generally a good idea to
+first buy some packs if you have spare gold, since commons are... common, so there's a good chance that you'll get them
+in a pack. [Rares are... rare and epics are even rarer](http://hearthstone.gamepedia.com/Card_pack), so you'll probably
+need to craft them once you have a specific deck in mind.
+
+Legendaries are a special category since they are very rare and it's very, very hard to get a specific legendary from a
+pack. However they are also very expensive and generally not a good return on dust, unless they are crucial. That's why
+legendaries are generally crafted only in special circumstances.
+
+As a new player it's best to craft rares or epics since you will probably make suboptimal decisions at first and at
+least you won't regret them that much :smile:
+
+Now, for the exact list of "key cards", that topic deserves its own article... stay tuned!
 
 ##### [Go top ↑](#toc)
