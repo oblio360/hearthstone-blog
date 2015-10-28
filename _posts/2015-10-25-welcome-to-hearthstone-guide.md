@@ -3,7 +3,7 @@ layout: post
 title: "Welcome to Hearthstone, a comprehensive Hearthstone guide" 
 ---
 
-![Hearthstone Logo](/images/posts/welcome-to-hearthstone-you-suck/hearthstone-logo.png)
+<img alt="Hearthstone Logo" src="/images/posts/welcome-to-hearthstone-you-suck/hearthstone-logo.png" style="display: block; margin: 0 auto;">
 
 This article is a guide to Hearthstone for newer players. It's actually a bit more than that, it is a curated collection
 of guides and useful links. These guides cover all major aspects of Hearthstone and they will definitely help you become
