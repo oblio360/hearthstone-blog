@@ -452,21 +452,19 @@ place to start.  Each deck comes with an explanation of why a specific card was 
 reasoning is solid.
 
 Especially at the beginning I recommend that you play a bit with these decks while you level up your classes and try to
-get a feel for each class until at some point you will probably arrive at a playstyle you like or a class you like. Or
+get a feel for each class until at some point you will probably arrive at a play style you like or a class you like. Or
 both.
 
-I also recommend that you do not make any serious investment decisions regarding Hearthsone before you play a bit with
+I also recommend that you do not make any serious investment decisions regarding Hearthstone before you play a bit with
 all these decks. Otherwise you might regret your initial decision terribly later on :smile:
 
 ##### [Go top ↑](#toc)
 
 # <a name="budget-decks">Budget decks</a>
 
-Now we're getting to the more volatile sections. These decks were made during the period after the Blackrock Mountain
-adventure (BRM for short) and before the Grand Tournament (TGT for short) release. 
+Now we're getting to the more volatile sections. These decks were after the release of the Grand Tournament (TGT for
+short) expansion.
 
-*TODO: update them after TGT release.* :blush:
- 
 It is very important to note that unlike the basic decks, which are completely free, these require more resources. And
 this is where "budget" becomes very important.
 
@@ -486,7 +484,7 @@ Of course, you don't need a full collection to play, but to really enjoy the exp
 And if you are here, then you probably want to improve, so you are competitive, you are "Spike".
  
 Again, courtesy of Sheng, a set of [good budget
-decks](https://www.reddit.com/r/hearthstone/comments/3e1mso/shengs_1000_dust_budget_decks_for_new_players/).
+decks](https://www.reddit.com/r/hearthstone/comments/3m6njs/shengs_budget_tgt_decks_for_all_9_classes/).
 
 ##### [Go top ↑](#toc)
 
