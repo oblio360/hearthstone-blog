@@ -1,6 +1,6 @@
 --- 
 layout: post 
-title: "HearthCraft Basics: what you need to now before you craft any card" 
+title: "HearthCraft Basics: what you need to know before you craft any card" 
 ---
 
 As you know, I've started writing a series of article about crafting Hearthstone cards. The series is called
