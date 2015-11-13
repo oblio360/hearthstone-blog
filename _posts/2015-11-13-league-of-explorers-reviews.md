@@ -70,7 +70,7 @@ released.
 
 ## Brian Kibler
 
-Brian Kibler is another professional Hearthstone player. He is also a competitive Magic The Gathering (Magic The
+Brian Kibler is another professional Hearthstone player. He is also a competitive Magic The Gathering player (Magic The
 Gathering is another card game, basically Hearthstone's grandpa). On top of this he is also a card game designer.
 
 * [Class cards](https://www.youtube.com/watch?v=FSPaLZr5DiY)
