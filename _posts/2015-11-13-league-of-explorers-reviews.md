@@ -1,6 +1,6 @@
 --- 
 layout: post 
-title: "League of Explorers Card Reviews"
+title: "League of Explorers card reviews"
 ---
 
 The third Hearthstone adventure, The League of Explorers (LOE) is here!
