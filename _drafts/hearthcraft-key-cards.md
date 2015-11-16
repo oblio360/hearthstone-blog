@@ -124,16 +124,49 @@ midrange decks which need a little help with boosting their low-attack minions w
 
 ### Honorable mentions
 
+#### 1 Mana minions (1 drops)
+
+| Card name                   | Why is it a good card? |
+| --------------------------- | -------------- |
+| <a href="http://www.hearthpwn.com/cards/12200-clockwork-gnome">Clockwork Gnome</a> | Mech, 1 mana minion that provides spare parts for card combos. |
+| <a href="http://www.hearthpwn.com/cards/12179-cogmaster">Cogmaster</a> | Mech support, 1 mana minion that can provide 3 damage, used in aggressive decks. |
+| <a href="http://www.hearthpwn.com/cards/473-argent-squire">Argent Squire</a> | Sticky 1 mana minion used in many aggressive decks. |
+| <a href="http://www.hearthpwn.com/cards/112-worgen-infiltrator">Worgen Infiltrator</a> | Sticky 1 mana minion used in some aggressive decks. |
+
+#### 2 Mana minions (2 drops)
+
 | Card name                   | Why is it a good card? |
 | --------------------------- | -------------- |
 | <a href="http://www.hearthpwn.com/cards/395-loot-hoarder">Loot Hoarder</a> | Cheap, efficient card draw minion that can combat smaller threats. |
-| <a href="http://www.hearthpwn.com/cards/428-acolyte-of-pain">Acolyte of Pain</a> | Another efficient card draw minion that can draw multiple cards.|
-| <a href="http://www.hearthpwn.com/cards/12188-mechwarper">Mech Warper</a> | Staple of the Mech tribe, he can "cheat" out powerful mechs 1 turn earlier. |
-| <a href="http://www.hearthpwn.com/cards/12181-annoy-o-tron">Annoy-o-tron</a> | Protects threatening early game minions (such as Mech Warper in mech decks. |
-| <a href="http://www.hearthpwn.com/cards/12202-tinkertown-technician">Tikertown Technician</a> | Mech tribe support: solid 3 drop and source of spare parts. |
-| <a href="http://www.hearthpwn.com/cards/12184-spider-tank">Spider Tank</a> | Another Mech tribe member: solid 3 drop. |
-| <a href="http://www.hearthpwn.com/cards/12253-mechanical-yeti">Mechanical Yeti</a> | And another mech tribe member: solid 4 drop and source of spare parts. |
-| <a href="http://www.hearthpwn.com/cards/22301-argent-horserider">Argent Horserider</a> | Charge and divine shield for only 3 mana. Solid aggro minion. |
+| <a href="http://www.hearthpwn.com/cards/12188-mechwarper">Mech Warper</a> | Staple of the Mech tribe, he allows Mech spam very early. |
+| <a href="http://www.hearthpwn.com/cards/12181-annoy-o-tron">Annoy-o-tron</a> | Mech, protects threatening minions (such as Mech Warper in mech decks. |
+| <a href="http://www.hearthpwn.com/cards/7757-unstable-ghoul">Unstable Ghoul</a> | Anti-aggro card that can also trigger enrage-like effects. |
+| <a href="http://www.hearthpwn.com/cards/12249-gilblin-stalker">Gilblin Stalker</a> | Sticky 2 drop used by buff classes (Priest, primarily). |
+| <a href="http://www.hearthpwn.com/cards/305-dire-wolf-alpha">Dire Wolf Alpha</a> | Damage buff card used by aggro decks which spam minions (zoos). |
+
+#### 3 Mana minions (3 drops)
+
+| Card name                   | Why is it a good card? |
+| --------------------------- | -------------- |
+| <a href="http://www.hearthpwn.com/cards/428-acolyte-of-pain">Acolyte of Pain</a> | Efficient card draw minion that can draw multiple cards. |
+| <a href="http://www.hearthpwn.com/cards/12202-tinkertown-technician">Tinkertown Technician</a> | Mech support, 3 drop with above average stats and source of spare parts. |
+| <a href="http://www.hearthpwn.com/cards/12184-spider-tank">Spider Tank</a> | Mech, 3 drop with standard stats. |
+| <a href="http://www.hearthpwn.com/cards/22301-argent-horserider">Argent Horserider</a> | Sticky charger for only 3 mana used in aggro decks. |
+| <a href="http://www.hearthpwn.com/cards/386-harvest-golem">Harvest Golem</a> | Mech, sticky 3 drop used in aggressive or midrange decks. |
+
+#### 4 Mana minions (4 drops)
+
+| Card name                   | Why is it a good card? |
+| --------------------------- | -------------- |
+| <a href="http://www.hearthpwn.com/cards/12253-mechanical-yeti">Mechanical Yeti</a> | Mech, standard stats for a 4 drop and source of spare parts. |
+| <a href="http://www.hearthpwn.com/cards/261-dread-corsair">Dread Corsair</a> | Anti-aggro, used in decks with many weapons or in pirate decks. |
+| <a href="">Dragonkin Sorcerer</a> | Dragon, used by in dragon decks and by buff classes (Priest, primarily). |
+
+#### 5 Mana minions (5 drops)
+
+| Card name                   | Why is it a good card? |
+| --------------------------- | -------------- |
+| <a href="http://www.hearthpwn.com/cards/338-stranglethorn-tiger">Stranglethorn Tiger</a> | Beast, sticky 5 drop used as part of the higher end of the deck for aggressive decks. |
 
 Mech tribe
 
@@ -143,23 +176,3 @@ Divine shield "tribe"
 
 Pirate tribe
 
-worgen infiltrator
-cogmaster
-clockwork gnome
-argent squire
-ship's cannon
-gilblin stalker
-unstable ghoul
-youthful brewmaster
-micro machine
-dire wolf alpha
-bluegill warrior
-bloodsail raider
-scarlet crusader
-harvest golem
-earthen ring farseer
-dancing swords
-argent horserider
-dread corsair
-dragonkin sorcerer
-stranglethorn tiger
