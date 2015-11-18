@@ -12,7 +12,7 @@ I will go through all the cards in Hearthstone and I will list the best cards fo
 <a name="toc"><a>
 
 * [Common neutral cards](#commons-neutrals)
-* [Rare rare cards](#rare-neutrals)
+* [Rare neutral cards](#rare-neutrals)
 * [Epic neutral cards](#epic-neutrals)
 * [Legendary neutral cards](#legendary-neutrals)
 * [Druid cards](#druid)
@@ -168,11 +168,8 @@ midrange decks which need a little help with boosting their low-attack minions w
 | --------------------------- | -------------- |
 | <a href="http://www.hearthpwn.com/cards/338-stranglethorn-tiger">Stranglethorn Tiger</a> | Beast, sticky 5 drop used as part of the higher end of the deck for aggressive decks. |
 
-Mech tribe
+### <a name="rare-neutrals">Rare neutral cards</a>
 
-Dragon tribe
-
-Divine shield "tribe"
-
-Pirate tribe
-
+Azure Drake
+Defender of Argus
+Knife Juggler
