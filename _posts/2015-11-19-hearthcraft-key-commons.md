@@ -16,16 +16,6 @@ If you want to read the rest of the articles, here is the full list:
 * [Rare neutral cards](http://hearthstone.oblio360.com/2015/11/21/hearthcraft-key-rares/#rare-neutrals)
 * [Epic neutral cards](http://hearthstone.oblio360.com/2015/11/23/hearthcraft-key-epics-legendaries/#epic-neutrals)
 * [Legendary neutral cards](http://hearthstone.oblio360.com/2015/11/23/hearthcraft-key-epics-legendaries/#legendary-neutrals)
-* [Druid cards](#druid)
-* [Hunter cards](#hunter)
-* [Mage cards](#mage)
-* [Paladin cards](#paladin)
-* [Priest cards](#priest)
-* [Rogue cards](#rogue)
-* [Shaman cards](#shaman)
-* [Warlock cards](#warlock)
-* [Warrior cards](#warrior)
-* [Tribal cards](#tribals)
 
 So, let's get to business and discuss about the key common neutral cards, cards you should craft first when you're
 thinking about common cards.
