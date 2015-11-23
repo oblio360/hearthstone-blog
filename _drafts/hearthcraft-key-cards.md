@@ -12,9 +12,9 @@ I will go through all the cards in Hearthstone and I will list the best cards fo
 <a name="toc"><a>
 
 * [Common neutral cards](http://hearthstone.oblio360.com/2015/11/19/hearthcraft-key-commons/#commons-neutrals)
-* [Rare neutral cards](#rare-neutrals)
-* [Epic neutral cards](#epic-neutrals)
-* [Legendary neutral cards](#legendary-neutrals)
+* [Rare neutral cards](http://hearthstone.oblio360.com/2015/11/21/hearthcraft-key-rares/#rare-neutrals)
+* [Epic neutral cards](http://hearthstone.oblio360.com/2015/11/23/hearthcraft-key-epics-legendaries/#epic-neutrals)
+* [Legendary neutral cards](http://hearthstone.oblio360.com/2015/11/23/hearthcraft-key-epics-legendaries/#legendary-neutrals)
 * [Druid cards](#druid)
 * [Hunter cards](#hunter)
 * [Mage cards](#mage)
