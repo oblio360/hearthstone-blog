@@ -1,6 +1,6 @@
 --- 
 layout: post 
-title: "Hearthcraft Key Cards: epic and legendary cards"
+title: "Hearthcraft Key Cards: epic and legendary neutral cards"
 ---
 
 This article is a part of the *Hearthcraft* series of articles, where I discuss about the cards that should be crafted
@@ -14,8 +14,8 @@ If you want to read the rest of the articles, here is the full list:
 
 * [Common neutral cards](#commons-neutrals)
 * [Rare neutral cards](#rare-neutrals)
-* [Epic neutral cards](#epic-neutrals)
-* [Legendary neutral cards](#legendary-neutrals)
+* [Epic neutral cards](http://hearthstone.oblio360.com/2015/11/23/hearthcraft-key-epics-legendaries/#epic-neutrals)
+* [Legendary neutral cards](http://hearthstone.oblio360.com/2015/11/23/hearthcraft-key-epics-legendaries/#legendary-neutrals)
 * [Druid cards](#druid)
 * [Hunter cards](#hunter)
 * [Mage cards](#mage)
