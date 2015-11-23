@@ -1,9 +1,9 @@
 --- 
 layout: post 
-title: "Hearthcraft Key Cards: epic and legendary neutral cards"
+title: "HearthCraft Key Cards: epic and legendary neutral cards"
 ---
 
-This article is a part of the *Hearthcraft* series of articles, where I discuss about the cards that should be crafted
+This article is a part of the *HearthCraft* series of articles, where I discuss about the cards that should be crafted
 first in Hearthstone, when playing on a budget. And we're all playing on a budget.
 
 <img src="/images/posts/hearthcraft-basics/dust.jpeg" alt="Dust" style="display: block; margin: 0 auto;">
@@ -12,7 +12,7 @@ If you want to read the rest of the articles, here is the full list:
 
 <a name="toc"><a>
 
-* [Common neutral cards](#commons-neutrals)
+* [Common neutral cards](http://hearthstone.oblio360.com/2015/11/19/hearthcraft-key-commons/#commons-neutrals)
 * [Rare neutral cards](#rare-neutrals)
 * [Epic neutral cards](http://hearthstone.oblio360.com/2015/11/23/hearthcraft-key-epics-legendaries/#epic-neutrals)
 * [Legendary neutral cards](http://hearthstone.oblio360.com/2015/11/23/hearthcraft-key-epics-legendaries/#legendary-neutrals)
