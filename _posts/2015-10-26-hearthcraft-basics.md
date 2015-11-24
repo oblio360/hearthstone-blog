@@ -17,7 +17,7 @@ in Hearthstone.
 
 ### TL;DR
 
-1. [Learn the Hearthstone basics.](#basics)
+1. [Learn the Hearthstone basics](#basics)
 2. [Don't rush it](#patience)
 3. [Do all the quests](#quests)
 4. [Unlock all the basic cards for all the classes](#unlock)
@@ -27,7 +27,8 @@ in Hearthstone.
 8. [Buy the adventures](#adventures)
 9. [Pick your favorite class](#favorite-class)
 10. [Pick your favorite play-style](#favorite-style)
-11. [Prioritize crafting key cards](#key-cards)
+11. [Craft higher rarity cards first](#craft-order)
+12. [Prioritize crafting key cards](#key-cards)
 
 ### <a name="basics">Learn the Hearthstone basics</a>
 
@@ -37,6 +38,8 @@ guide](http://hearthstone.oblio360.com/2015/10/25/welcome-to-hearthstone-guide/#
 If you don't have a lot of time at least go through Trump's Hearthstone basics videos, they're all linked in my article.
 
 ##### [Go top ↑](#toc)
+
+<img alt="Slow and steady wins the race" src="/images/common/oasis-snapjaw.png" style="float: right">
 
 ### <a name="patience">Don't rush it</a>
 
@@ -60,6 +63,10 @@ important going forward.
 
 ##### [Go top ↑](#toc)
 
+* * *
+
+<img alt="Quest accepted" src="/images/common/questing-adventurer.png" style="float: right">
+
 ### <a name="quests">Do all the quests</a>
 
 Blizzard is quite stingy with resources since each player that plays and gets gold and dust will use them instead of
@@ -74,7 +81,11 @@ yourself. Just play on and try to learn from each game.
 
 ##### [Go top ↑](#toc)
 
+* * *
+
 ### <a name="unlock">Unlock all the basic cards for all the classes</a>
+
+<img alt="Ready to kill" src="/images/common/kill-command.png" style="float: right">
 
 You can't craft cards without knowing why you're crafting them. Sometimes you'll craft them because you saw them in a
 deck on the net. However there are many, many bad decks on the Internet. So the best way to not get "scammed" is to
@@ -90,7 +101,11 @@ If as a new player with mostly basic cards you go above level 20, then you have 
 
 ##### [Go top ↑](#toc)
 
+* * *
+
 ### <a name="arena">Play arena as often as you can</a>
+
+<img alt="Ogre time" src="/images/common/boulderfist-ogre.png" style="float: right">
 
 Hearthstone has several game modes. You can practice against the Innkeeper in single player mode, play adventures, also
 in single player mode, or go against human players in casual mode, ranked mode, the Arena or Tavern Brawl.
@@ -106,28 +121,46 @@ Of course, for this you'll need to learn to play arena.
 
 ##### [Go top ↑](#toc)
 
+* * *
+
 ### <a name="brawl">Play Brawl each week</a>
+
+<img alt="Get in there" src="/images/common/grim-patron.png" style="float: right">
 
 Tavern Brawl is the other multi player game mode in Hearthstone. It's crazier than the other two and it changes each
 week. It's great because the first win rewards you with a card pack (which you'll greatly appreciate in the start!) and
 also because it teaches you to think on your feet and to react in unusual game circumstances.
 
+To be able to enter the brawl you will need to level a class to level 20 (it shouldn't be hard to do as you keep
+playing).
+
 Even if you don't like the Brawl available this week, at least play it until you win once to get the free pack.
 
 ##### [Go top ↑](#toc)
 
+* * *
+
 ### <a name="packs">Buy about 10 packs from each expansion</a>
+
+<img alt="Where's my cut?" src="/images/common/trade-prince-gallywix.png" style="float: right">
 
 It's quite hard to play when your collection has only basic cards. You can play, but many of the fun cards are not
 available to you.
 
 This is why I think that you should buy (either with cash or with gold) 10 packs from each expansion. These packs will
 give you at least 40 common cards and 10 rare cards from each expansion, giving you a lot more flexibility when making
-decks. This is especially useful when you're off questing.
+decks. 
+
+This is especially useful when you're off questing, since the more efficient you become when you are questing, the more
+gold and dust you get, which in turn will make future questing even easier and faster.
 
 ##### [Go top ↑](#toc)
 
+* * *
+
 ### <a name="adventures">Buy the adventures</a>
+
+<img alt="Excuse me!" src="/images/common/sludge-belcher.png" style="float: right">
 
 There are currently 2 Hearthstone adventures: [Curse of Naxxramas](http://hearthstone.gamepedia.com/Curse_of_Naxxramas)
 and [Black Rock Mountain](http://hearthstone.gamepedia.com/Blackrock_Mountain). Both of these have cards which can be
@@ -135,12 +168,17 @@ used by any class and by any deck type.
 
 [It's quite inefficient to buy them with gold](http://hearthstone.oblio360.com/2015/09/15/cash-time-gold-dust/). As a
 result I recommend that you buy them with cash. If Blizzard sticks to this principle (and I think they will), adventures
-will probably be your only cash investment in Hearthstone. This means that you'll spend about $25 per year on
-Hearthstone. Quite good for a quality game!
+will probably be your only cash investment in Hearthstone.
+
+This means that you'll spend about $25 per year on Hearthstone. Quite good for a quality game!
 
 ##### [Go top ↑](#toc)
 
+* * *
+
 ### <a name="favorite-class">Pick your favorite class</a>
+
+<img alt="The elements guide me" src="/images/common/thrall.png" style="float: right">
 
 This is the follow up to the point about unlocking all the basic cards. Once you "get a feel" for all the classes, as
 most players do, you'll start liking some more than others. In order to double check that the class or classes you
@@ -152,7 +190,11 @@ percentage for this category, but it's also very small).
 
 ##### [Go top ↑](#toc)
 
+* * *
+
 ### <a name="favorite-style">Pick your favorite play-style</a>
+
+<img alt="Ribbit!" src="/images/common/hex.png" style="float: right">
 
 This one's a bit trickier. The reason it's trickier is because unlike the classes, some play styles are not available at
 the start. For example Handlock is a specific kind of control deck which requires expensive cards. Still, if you make a
@@ -165,7 +207,41 @@ flexible and you can select the actual deck a bit later.
 
 ##### [Go top ↑](#toc)
 
+* * *
+
+## <a name="craft-order">Craft higher rarity cards first</a>
+
+<img alt="Bark cracking" src="/images/common/ancient-of-lore.png" style="float: right">
+
+When you open packs you get at least 4 common cards and 1 rare, in the worst case scenario. If you're lucky you'll get
+even better cards, but the chance for getting those better cards (such as epic or legendary cards) is lower.
+
+If you want to see the exact stats, you can [read about them
+here](http://hearthstone.gamepedia.com/Card_pack_statistics).
+
+So, there's a 20% chance that you'll get an epic card and a 5% chance that you're going to get a legendary card. But the
+trick is... you don't know which epic or legendary you'll get.
+
+This means that unless you open 50-100+ packs, you can't really guarantee that you'll get the epic or legendary card you
+need.
+
+On the other hand, you'll get at least 4 common cards per pack, so getting the common cards is quite easy once you open
+a decent number of packs (the sweet spot is around 20 packs per expansion). For rare cards things are a little more
+tricky, but you still have a decent chance of getting the rare card you want from a pack if you open a reasonable number
+of packs.
+
+What this means is that you should:
+
+* try to get most common and rare cards from packs
+* prioritize crafting epic and legendary cards unless you really, really need some common and rare cards for a deck
+  you'd love to make
+
+
+##### [Go top ↑](#toc)
+
 ### <a name="key-cards">Prioritize crafting key cards</a>
+
+<img alt="Mmmmmmmm" src="/images/common/molten-giant.png" style="float: right">
 
 This is even trickier. Some cards are "key" cards. They are a reason a specific deck can work, even in competitive
 environments. It's quite hard to figure out what a key card is. For example <a
