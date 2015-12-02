@@ -89,6 +89,42 @@ appreciated in aggro decks while the Bear is welcome in midrange or control Drui
 
 * * *
 
+<img alt="Force of Nature" src="/images/common/force-of-nature.png" style="float: right;">
+
+### Force of Nature
+
+One of the best known spells in the game. Not on its own. But as part of the most famous Hearthstone combo: Force of
+Nature / <a href="http://www.hearthpwn.com/cards/329-savage-roar">Savage Roar</a>. On its own Force of Nature is not
+something to write home about, for 6 mana it provides just 6 damage. <a
+href="http://www.hearthpwn.com/cards/522-fireball">Fireball</a> provides the same amount of damage for 6 mana. Force of
+Nature shines because it is a versatile spell (the core characteristic of all Druid cards). It can do 6 damage to the
+enemy's face or to his minions. Since it spawns 3 minions with charge, each of them can be used independently to focus
+another target, for example for clearing the opponent's board.
+
+But its highlight is when it is paired with Savage Roar. For 9 mana this combo does a total of 14 damage (2 from the
+hero itself and 4 from each treant). As a result every Druid opponent has to make sure that he has a taunt up when his
+life total is below 15 HP.
+
+* * *
+
+<img alt="Wrath" src="/images/common/wrath.png" style="float: right;">
+
+#### Wrath
+
+Wrath is a 2 mana cost spell that is used for removing a small but very threatening minion, finishing off a larger
+minion or drawing a card (when it only does 1 damage).
+
+This flexibility comes at a cost as Wrath can only target minions, but the flexibility greatly surpasses this downside
+and as a result Wrath is seen in almost all Druid decks.
+
+It is frequently used to fend off very aggressive decks or to draw 1 more card when the Druid player is out of fuel
+(usually when he is the one playing the beatdown deck).
+
+Used in all but the most aggressive of Druid decks.
+
+
+* * *
+
 <img alt="Ancient of Lore" src="/images/common/ancient-of-lore.png" style="float: right;">
 
 #### Ancient of Lore
@@ -110,11 +146,33 @@ part of.
 
 * * *
 
-Savage Combatant
-Cenarius
-Ancient of War
-Druid of the Saber
-Druid of the Flame
+
+<img alt="Living Roots" src="/images/common/living-roots.png" style="float: right;">
+
+#### Living Roots
+
+Living Roots is another new entry in the Druid arsenal. It was introduced in TGT, together with Darnassus Aspirant, and
+it was widely adopted by the community.
+
+Its uses are multiple: fend off aggressive decks through the Saplings or the nuke, damage the enemy's face (probably
+just before winning the game), provide more "boots on the ground" to be used next round for Savage Roar.
+
+Some of the fastest wins in the game have involved Living Roots (2x Living Roots provide 4 minions, and when Savage Roar
+is used these 4 minions total 12 damage, 2x Savage Roar and the damage goes up to 20 damage; add the 2 / 4 damage that
+the hero gets from Savage Roar and a quick win is possible).
+
+* * *
+
+### Honorable mentions
+
+
+| Card name                   | Why is it a good card? |
+| --------------------------- | ---------------------- |
+| <a href="http://www.hearthpwn.com/cards/22293-savage-combatant">Savage Combatant</a> | Provides an aggressive minion and some extra damage for removal. |
+| <a href="http://www.hearthpwn.com/cards/605-cenarius">Cenarius</a> | Hard to remove, can provide 2 taunts or extra stats for burst damage.
+| <a href="http://www.hearthpwn.com/cards/242-ancient-of-war">Ancient of War</a> | One of the biggest, baddest taunts available. Very hard hard to remove through minion combat. |
+| <a href="http://www.hearthpwn.com/cards/22307-druid-of-the-saber">Druid of the Saber</a> | Stealthy aggro minion. |
+| <a href="http://www.hearthpwn.com/cards/14457-druid-of-the-flame">Druid of the Flame</a> | Hard to remove minion or threatening small minion, depending on mode. |
 
 ##### [Go top ↑](#toc)
 
