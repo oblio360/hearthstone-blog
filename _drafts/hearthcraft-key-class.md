@@ -278,6 +278,7 @@ href="http://www.hearthpwn.com/cards/488-kill-command">Kill Command</a>.
 A common saying is: "if Highmane hit your face, you're going to lose". Often true.
 
 * * *
+
 ### Honorable mentions
 
 
@@ -292,13 +293,93 @@ A common saying is: "if Highmane hit your face, you're going to lose". Often tru
 
 ## Mage
 
-Archmage Antonidas
-Mana Wyrm
-Sorcerer's Apprentice
-Snowchugger
-Goblin Blastmage
+<img alt="Archmage Antonidas" src="/images/common/archmage-antonidas.png" style="float: right;">
+
+#### Archmage Antonidas
+
+The former leader of the mages in [Dalaran](http://wowwiki.wikia.com/wiki/Dalaran), Antonidas is one of the most
+threatening late game minions in the game. He often serves as a secondary win condition for all kinds of decks, once
+their main game plan fails (for Tempo Mages the main game plan is to kill the opponent with cheap and efficient spells
+and minions and for Freeze Mage the main game plan is to nuke down the enemy in 1 big turn).
+
+For 7 mana you get a 5/7 minion with the ability to create an infinite number of fireball. This ability means that every
+Warriors with 40 armor can be killed, provided that Antonidas is not killed quickly enough.
+
+Antonidas is seen in all mage decks, with the possible exception of Face Mage decks (which are quite rare).
+
+* * *
+
+<img alt="Mana Wyrm" src="/images/common/mana-wyrm.png" style="float: right;">
+
+#### Mana Wyrm
+
+Mana Wyrm is the definition of a "snowballing" minion: a minion that can, if not killed, win the game on its own. For 1
+mana you get a 1/3 minion that gets +1 damage for each spell cast.
+
+In a deck built around cheap, efficient spells, Mana Wyrm can even reach 6-7 damage, allowing the Mage to kill the
+opponent through sheer face pounding.
+
+Mana Wyrm is such a threatening minion it can force removal, providing great value considering the fact that Mana Wyrm costs 1
+mana and most removal costs more than 1 mana.
+
+* * *
+
+<img alt="Sorcerer's Apprentice" src="/images/common/sorcerers-apprentice.png" style="float: right;">
+
+#### Sorcerer's Apprentice
+
+The second "dagger" in the Tempo Mage arsenal is the other small, threatening minion: Sorcerer's Apprentice. While the
+minion itself is not as dangerous as Mana Wyrm, the effect is very powerful: every spell cast while Sorcerer's
+Apprentice is on the board costs 1 less mana.
+
+This allows you to have "power turns" where you unload a hand full of spells, usually gaining back board control or
+severely crippling your opponent.
+
+Tip: don't play Sorcerer's Apprentice alone on the board (i.e. on turn 2), unless you are really sure that the enemy has
+no removal or you're in a desperate position.
+
+* * *
+
+<img alt="Snowchugger" src="/images/common/snowchugger.png" style="float: right;">
+
+#### Snowchugger
+
+Snowchugger is a core Mech Mage minion. He is resilient (2 mana 2/3) with a freeze effect on minions. This effect is
+very handy for freezing enemy minions, larger or small, or even better, freezing the opponent's face when they're
+wielding a weapon (it's especially good against Warrior or Rogues, who frequently have key weapon turns, so freezing
+them just at that time blocks out a very powerful enemy move).
+
+The fact that he has 3 health also helps with Mech Mage's general plan of flooding the board, since the 3 health is
+quite resistant to smaller AOEs and requires bigger and more powerful AOEs for clean up.
+
+While that big AOE is coming, the damage from the (hopefully) full board will pile up, while Snowchugger protects
+threatening minions with its freeze effect.
+
+* * *
+
+<img alt="Goblin Blastmage" src="/images/common/goblin-blastmage.png" style="float: right;">
+
+#### Goblin Blastmage
+
+Another core Mech Mage minion, Goblin Blastmage is probably the reason why Mech Mage decks are viable. The 4 mana 5/4
+minion has a powerful battlecry: it deals 4 damage randomly split among enemy targets.
+
+If the is successfully triggered on turn 4 (this requires having a mech on board), the 4 random damage is generally
+enough to clear the board or do quite a bit of face damage.
+
+Goblin Blastmage is a great tempo minion as it can either help recover from a mediocre start or cement an already decent
+lead.
+
+* * *
+
+{% include inline-image.html alt="Spellslinger" %}
+
+#### Spellslinger
+
 Spellslinger
 Kirin Tor Mage
+
+##### [Go top ↑](#toc)
 
 ## Paladin
 

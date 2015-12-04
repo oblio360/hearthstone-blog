@@ -1,0 +1,5 @@
+{% if include.left %}
+  <img alt="{{ include.alt }}" src="/images/common/{{ include.alt | downcase | replace: ' ', '-' }}.png" style="float: left;">
+{% else %}
+  <img alt="{{ include.alt }}" src="/images/common/{{ include.alt | downcase | replace: ' ', '-' }}.png" style="float: right;">
+{% endif %}
