@@ -1,6 +1,7 @@
 --- 
 layout: post 
 title: "How to play Raptor Rogue"
+tags: [ guides, decks ]
 ---
 
 [League of Explorers (LoE)]({% post_url 2015-11-13-league-of-explorers-reviews %}) has brought with it several deck
