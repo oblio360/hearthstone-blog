@@ -5,6 +5,13 @@
 .sidebar a {
     color: #d84315;
 }
+.tag-title, .archive-title {
+    background-color: #d84315;
+}
+
+a.tag-title, a.archive-title {
+    color: #ffffff;
+}
 
 .theme-base .content a,
 .theme-base .related-posts li a:hover {

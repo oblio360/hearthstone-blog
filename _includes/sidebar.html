@@ -14,12 +14,27 @@
             <a href="/about" class="menu-entry {% if page.title == 'About' %}active{% endif %}">About</a>
         </div>
 
-        <ul class="archive-box">
-            <a href="/archive"><b>Recent articles</b></a>
-            {% for post in site.posts limit:4 %}
-            <li class="archive-list"><a href="{{ post.url }}">{{ post.title }}</a></li>
+        <br>
+
+        <div class="tag-box">
+            <a class="tag-title" href="/archive"><b>&nbsp;Content</b></a>
+            <p></p>
+            {% for data_tag in site.data.tags %}
+            <p class="tag-list"><a href="/tag/{{ data_tag.slug }}">{{ data_tag.name }}</a></p>
+            <hr class="menu" >
             {% endfor %}
-        </ul>
+        </div>
+
+        <br>
+
+        <div class="archive-box">
+            <a class="archive-title" href="/archive"><b>&nbsp;Recent articles</b></a>
+            <p></p>
+            {% for post in site.posts limit:5 %}
+            <p class="archive-list"><a href="{{ post.url }}">{{ post.title }}</a></p>
+            <hr class="menu" >
+            {% endfor %}
+        </div>
 
         {% include license.html %}
     </div>
