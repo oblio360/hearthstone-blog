@@ -1,6 +1,7 @@
 --- 
 layout: post 
-title: "Why doesn't Hearthstone have a workshop?" 
+title: "Why doesn't Hearthstone have a workshop?"
+ tags: [ opinion ]
 ---
 
 Every player that loves Hearthstone wants to see the game thrive. He wants to play the game a lot, now and in the

@@ -1,6 +1,7 @@
 --- 
 layout: post 
-title: "Cash - time - gold - dust" 
+title: "Cash - time - gold - dust"
+tags: [ guide, opinion ]
 ---
 
 The most important thing in Hearthstone, as in any game, is to have fun. Kind of obvious, I know! :smile:

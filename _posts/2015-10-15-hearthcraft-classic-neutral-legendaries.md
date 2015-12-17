@@ -1,6 +1,7 @@
 --- 
 layout: post 
-title: "HearthCraft Episode 1: Classic set - neutral legendaries" 
+title: "HearthCraft Episode 1: Classic set - neutral legendaries"
+tags: [ guide, crafting ]
 ---
 
 Hello, I'm *oblio* and I'll be your host for a new series called "Which cards should I craft first as a new

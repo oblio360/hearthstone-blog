@@ -1,10 +1,10 @@
-- slug: guides
-  name: Guides
-- slug: decks
-  name: Decks
+- slug: guide
+  name: Guide
+- slug: deck
+  name: Deck
 - slug: crafting
   name: Crafting
 - slug: news
   name: News
-- slug: opinions
-  name: Opinions
+- slug: opinion
+  name: Opinion

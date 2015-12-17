@@ -1,6 +1,7 @@
 --- 
 layout: post 
 title: "HearthCraft Key Cards: rare neutral cards"
+tags: [ guide, crafting ]
 ---
 
 This article is a part of the *HearthCraft* series of articles, where I discuss about the cards that should be crafted

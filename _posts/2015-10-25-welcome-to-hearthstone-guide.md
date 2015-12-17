@@ -1,6 +1,7 @@
 --- 
 layout: post 
-title: "Welcome to Hearthstone, a comprehensive Hearthstone guide" 
+title: "Welcome to Hearthstone, a comprehensive Hearthstone guide"
+tags: [ guide ]
 ---
 
 <img alt="Hearthstone Logo" src="/images/posts/welcome-to-hearthstone-you-suck/hearthstone-logo.png" style="display: block; margin: 0 auto;">

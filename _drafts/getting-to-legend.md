@@ -1,4 +1,5 @@
 --- 
 layout: post 
-title: "HearthCraft Key Cards" 
+title: "Becoming legendary"
+tags: [ guide ]
 ---

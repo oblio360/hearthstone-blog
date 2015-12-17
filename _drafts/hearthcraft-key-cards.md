@@ -1,6 +1,7 @@
 --- 
 layout: post 
-title: "HearthCraft Key Cards" 
+title: "HearthCraft Key Cards"
+tags: [ guide, crafting ]
 ---
 
 At the end of the [HearthCraft Basics](http://hearthstone.oblio360.com/2015/10/26/hearthcraft-basics/) article I

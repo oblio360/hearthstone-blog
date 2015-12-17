@@ -1,6 +1,7 @@
 --- 
 layout: post 
-title: "Welcome to Hearthstone, you suck!" 
+title: "Welcome to Hearthstone, you suck!"
+tags: [ guide ]
 ---
 
 ![Hearthstone Logo](/images/posts/welcome-to-hearthstone-you-suck/hearthstone-logo.png)
