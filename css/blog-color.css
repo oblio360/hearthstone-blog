@@ -17,3 +17,13 @@ a.tag-title, a.archive-title {
 .theme-base .related-posts li a:hover {
     color: #d84315;
 }
+
+.theme-base a.tag {
+    background-color: #d84315;
+    color: #ffffff;
+}
+
+.fa-tag {
+    background-color: #d84315;
+    color: #ffffff;
+}
