@@ -370,23 +370,23 @@ a.license:hover, a.license:focus {
     width: 20px;
 }
 
-.ads {
+.adslot_1  {
     width: 320px;
     height: 100px;
     align: center;
     padding: 5px;
 }
 
-@media (min-width: 500px) and (max-width: 767px) {
-    .ads{
+@media (min-width: 500px) and (max-width: 1199px) {
+    .adslot_1 {
         width: 468px;
         height: 60px;
         align: center;
         padding: 5px;
     }
 }
-@media (min-width:800px) {
-    .ads {
+@media (min-width: 1200px) {
+    .adslot_1 {
         width: 728px;
         height: 90px;
         align: center;
