@@ -56,8 +56,7 @@
   padding-bottom: 1px;
   padding-left: 5px;
   padding-right: 5px;
-  box-shadow: 0px 1px 3px #b0b0b0;
-  opacity: 0.8;
+  box-shadow: 0 1px 3px #505050;
 }
 
 .fa-tag {

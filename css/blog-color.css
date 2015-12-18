@@ -1,15 +1,8 @@
-.menu-container {
-    background-color: #d84315;
-}
-
 .sidebar a {
     color: #d84315;
 }
-.tag-title, .archive-title {
-    background-color: #d84315;
-}
 
-a.tag-title, a.archive-title {
+.tag-title a, .archive-title a {
     color: #ffffff;
 }
 
@@ -18,12 +11,20 @@ a.tag-title, a.archive-title {
     color: #d84315;
 }
 
-.theme-base a.tag {
-    background-color: #d84315;
-    color: #ffffff;
+.menu-container {
+    background-color: #d1552e;
+}
+
+.tag-title, .archive-title {
+    background-color: #d1552e;
 }
 
 .fa-tag {
-    background-color: #d84315;
+    background-color: #d1552e;
+    color: #ffffff;
+}
+
+.theme-base a.tag {
+    background-color: #d1552e;
     color: #ffffff;
 }
