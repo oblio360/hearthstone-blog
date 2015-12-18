@@ -375,6 +375,11 @@ a.license:hover, a.license:focus {
     padding-bottom: 5px;
 }
 
+.adslot_1 {
+    width: 320px;
+    height: 100px;
+}
+
 @media (min-width: 768px) and (max-width: 1199px) {
     .adslot_1 {
         width: 468px;
