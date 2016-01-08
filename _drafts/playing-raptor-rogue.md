@@ -9,13 +9,16 @@ types enabled by newly added cards.
 
 {% include inline-image.html alt="Unearthed Raptor" %}
 
-One of the classes which have gotten a new deck type has been Rogue, as a result of the introduction of Unearthed
-Raptor. Unearthed Raptor is a 3 mana 3/4 minion with a very powerful battlecry effect: it can copy the deathrattle of
+<div class="description">
+Sometimes a new card can create a new deck type for a class. One of the League of Explorers cards, Unearthed Raptor, has
+done just that. Unearthed Raptor is a 3 mana 3/4 minion with a very powerful battlecry effect: it can copy the deathrattle of
 any friendly minion, thus having its own deathrattle.
-
 This has enabled Rogue, which was traditionally a spell-based class, to focus on a more minion-heavy play style. Some
 people have even gone so far as to call it "Zoo". The new, minion-based deck is commonly known as "Raptor Rogue" or
 "Deathrattle Rogue".
+
+<br>
+<br>
 
 The general idea is simple: since Unearthed Raptor is a midgame minion which can copy powerful deathrattles, just create
 a deck which includes the most powerful deathrattles.
@@ -27,8 +30,13 @@ Rogue decks, with varying degrees of success at all levels of play.
 Here I'll present my own variation of Raptor Rogue, with a card-by-card explanation for things I've included and thing's
 I've excluded that might be alternatives to my choices, as well as a mulligan guide and a general game play guide.
 
-I've managed to reach legend with this variation and I think that the deck is competitive. If I haven't reached higher
-legend ranks it's just because I'm not a good enough player and I couldn't exploit the deck to its full potential.
+I've managed to reach legend with this variation and I think that the deck is competitive for most levels of play and
+it's definitely a lot of fun to play!
+
+<br>
+<br>
+</div>
+
 
 <img alt="Raptor Rogue deck" src="/images/posts/how-to-raptor-rogue/deck.jpg" style="float: right;">
 
@@ -45,7 +53,7 @@ Cards included:
 * 2x <a href="http://www.hearthpwn.com/cards/382-eviscerate">Eviscerate</a> - Backstab's bigger brother that can also
   hit face; used to clear very threatening small minions or bigger minions or as burst damage when going for lethal.
 * 2x <a href="http://www.hearthpwn.com/cards/7756-haunted-creeper">Haunted Creeper</a> - deathrattle, sticky minion that
-  can fight off aggro minions and also provides several bodies which can be used (& abused) by Coldblood, Abusive
+  can fight off aggro minions and also provides several bodies which can be used (& abused) by Cold blood, Abusive
   Sergeant or Defender of Argus.
 * 2x <a href="http://www.hearthpwn.com/cards/395-loot-hoarder">Loot Hoarder</a> - deathrattle, cheap and efficient
   minion that also draws a card; used early game to fend off aggro and late game to draw more cards together with Raptor
@@ -66,15 +74,40 @@ Cards included:
   best 4 mana minion in the game]({% post_url 2015-11-19-hearthcraft-key-commons %}).
 * 2x <a href="http://www.hearthpwn.com/cards/280-azure-drake">Azure Drake</a> - card draw, +1 spell damage for more
   efficient minion removal or better reach for lethal and on top of that a decent minion body.
-* 1x <a href="http://www.hearthpwn.com/cards/14434-dark-iron-skulker">Dark Iron Skuler</a> - another, slightly more
+* 1x <a href="http://www.hearthpwn.com/cards/14434-dark-iron-skulker">Dark Iron Skulker</a> - another, slightly more
   powerful AOE that also leaves a 4/3 minion behind.
 * 2x <a href="http://www.hearthpwn.com/cards/7749-sludge-belcher">Sludge Belcher</a> - deathrattle, double taunt to
   block aggro.
 * 1x <a href="http://www.hearthpwn.com/cards/33-sylvanas-windrunner">Sylvanas Windrunner</a> - another deathrattle and a
-  decent 5/5 body; great in control matchups especially against classes where you want to block a big drop; copying the
+  decent 5/5 body; great in control match ups especially against classes where you want to block a big drop; copying the
   deathrattle with the Raptor can be strong as it can potentially block 2 powerful turns from your opponent.
 * 1x <a href="http://www.hearthpwn.com/cards/12182-dr-boom">Dr. Boom</a> - more deathrattles on top of probably the [best
   7 mana minion in the game]({% post_url 2015-11-19-hearthcraft-key-commons %}).
+
+## Tech cards and alternatives
+
+* <a href="http://www.hearthpwn.com/cards/12175-piloted-sky-golem">Piloted Sky Golem</a> - great body, great
+  deathrattle, it's probably the best card that was no included in the deck; I favored Sylvanas as Sylvanas is stronger
+  against control decks.
+* <a href="http://www.hearthpwn.com/cards/12187-sneeds-old-shredder">Sneed's Old Shredder</a> - big deathrattle, great
+  in a grindy meta; can be used instead of a Sludge Belcher.
+* <a href="http://www.hearthpwn.com/cards/74-acidic-swamp-ooze">Acidic Swamp Ooze</a> - the dreaded weapon killer, this
+  time used by a Rogue that doesn't rely on weapons :smile:; useful for metas where weapons are extremely abundant.
+* <a href="http://www.hearthpwn.com/cards/12227-antique-healbot">Antique Healbot</a> - great in a meta with a lot of
+  aggression through spells or hero powers (Hunter, mostly); generally great for leveling as most of the sub-level 10
+  decks are very aggressive.
+
+## Cards which have been intentionally excluded
+
+* All Rogue weapon buffs and <a href="http://www.hearthpwn.com/cards/244-blade-flurry">Blade Flurry</a> - you live and
+  die by your minions, not spells; weapon buffs will slow down this game plan while Blade Flurry without them is useless
+  since using it on a naked dagger is too weak.
+
+* <a href="http://www.hearthpwn.com/cards/513-leper-gnome">Leper Gnome</a> - doesn't trade well with anything and this
+  is not a pure aggro deck; think of this deck more like Midrange Zoo than Aggro Zoo.
+
+* <a href="http://www.hearthpwn.com/cards/386-harvest-golem">Harvest Golem</a> - the main body doesn't trade up while
+  the deathrattle doesn't make up for this weakness.
 
 ## Game plan
 
@@ -95,13 +128,102 @@ The perfect game start would be:
 * Turn 4: Piloted Shredder
 * Turns 5 & later: solidify the board, preferably by keeping deathrattles so that enemy AOE cannot wipe your board
 
+Mid game things become a bit fuzzy since you need to balance out doing face damage to controlling the board. The reason
+for this is that the deck is fundamentally a midgame oriented deck, not a super late game control deck that wants to
+drag out the game to fatigue.
+
+As a simple rule, favor doing face damage to Control Warriors, Priests, Paladins and Handlocks after turn 7 or so, since
+it's unlikely you'll be able to control the board forever with a board that is actually threatening (this deck can flood
+the board with many bodies but sometimes they're just 0/2s, 1/2s, 1/3s which are not really threatening to a control
+class.
+
+<img alt="Favorable Match Ups" src="/images/posts/how-to-raptor-rogue/favorable.jpg" style="float: right;">
+
 #### Favorable match ups
 
-Secret Paladin, Aggro Druid, Midrange Hunter, Hybrid Hunter, Control Warrior running only 1 copy of Brawl, Handlock if
-you get Big Game Hunter before turn 4.
+##### Secret Paladin
+
+Mulligan for: Backstab, Egg, Creeper, Raptor, Fan of Knives (only if you already have a 2-drop in your hand; Fan is used
+to counter Muster for Battle).
+
+Stick things on the board, clear everything the opponent plays until turn 6 (Mysterious Challenger turn), then depending
+on the turn of the game, either grind down the Paladin with an endless supply of deathrattles or rush face if you have a
+lot of burst in your hand (Secret Paladins don't really have defense).
+
+##### Aggro Druid
+
+Mulligan for: Backstab, Egg, Creeper, Raptor, Eviscerate or BGH (only if you already have a 2-drop in your hand;
+Eviscerate is used to counter an early Druid of the Claw or Fel Reaver).
+
+Same general plan as for Secret Paladin until turn 5 (Fel Reaver turn) with an emphasis for taunting up after turn 9.
+The main ways you lose are to an uncontested Fel Reaver (face tanking it isn't a good choice) or a lucky Force of Nature
+/ Savage Roar combo early on.
+
+##### Midrange Hunter
+
+Mulligan for: Backstab, Egg, Creeper, Raptor.
+
+Same general plan as for Secret Paladin until turn 7 (Dr. Boom turn) with an emphasis on racing after this turn as the
+Hunter hero power will whittle you down.
+
+##### Hybrid Hunter
+
+Mulligan for: Backstab, Egg, Creeper, Raptor.
+
+This game is a race after turn 3. Clear all the beasts after turn 5 if it's not too costly, to avoid huge spikes
+of damage from Kill command.
+
+##### Control Warrior
+
+Mulligan for: Egg, Creeper, Raptor, Eviscerate (to cleanly clear Armorsmith or Acolyte of Pain).
+
+Stick things on the board and grind down every threat with efficient removal. Don't overtextend into Brawl. If the
+Warrior is running two copies of Brawl, the match up becomes way harder.
+
+##### Handlock
+
+Mulligan for: Egg, Creeper, Raptor, BGH.
+
+Same rule of making a sticky board. Ignore most minions played if not giants but don't bring the Warlock too low before
+you're ready for the burst.
+
+<img alt="Unavorable Match Ups" src="/images/posts/how-to-raptor-rogue/unfavorable.jpg" style="float: right;">
 
 ### Unfavorable match ups
 
-Dragon Priest, Renolock, Face Hunter, Aggro Shaman.
+##### Priest
 
-## Mulligans
+Most minions are bigger than yours, Priest hero power makes them sticky. This deck doesn't have enough 1-turn burst to
+kill them from higher life totals (you're not Miracle Rogue). Also Cabal Shadow Priest can steal most of of your minions
+causing a huge game swing.
+
+##### Renolock
+
+Several strong AOEs, many strong Warlock minions, better late game than yours, no way to grind them down efficiently and
+insufficient burst. Maybe Sneed's could help, but I don't have him :smile:
+
+
+##### Face Hunter
+
+Pure Face Hunter is a dice roll. It basically relies on having sticky minions and Defender of Argus in the mulligan.
+
+But overall, you're disadvantaged since Face Hunter has a ton of damage  and this deck is neither fast enough to race
+nor defensive enough to stall out the game long enough for the Shaman to run out of steam.
+
+##### Aggro Shaman
+
+Similar situation to the Face Hunter match up. On top of it, Aggro Shaman has higher burst. If you're facing a lot of
+Aggro Shaman teching in Acidic Swamp Ooze is a decent choice.
+
+## Variations of the deck.
+
+There are many variations of this deck around, here are several versions I found:
+
+* [Amaz's Raptor Rogue](https://teamarchon.com/decks/view/87-unearthed-raptor-rogue)
+
+* [RDIFD's Raptor Rogue](http://www.hearthpwn.com/decks/376635-top-5-legend-raptor-rogue)
+
+* [Justsaiyan's Raptor Rogue](http://www.hearthpwn.com/decks/374849-justsaiyans-tempo-raptor-rogue)
+
+And you've reached the end of the guide. Thank you for reading so far, have fun playing this deck and come back for more
+guides!
