@@ -9,7 +9,7 @@ types enabled by newly added cards.
 
 {% include inline-image.html alt="Unearthed Raptor" %}
 
-<div class="description">
+<div class="article-description">
 Sometimes a new card can create a new deck type for a class. One of the League of Explorers cards, Unearthed Raptor, has
 done just that. Unearthed Raptor is a 3 mana 3/4 minion with a very powerful battlecry effect: it can copy the deathrattle of
 any friendly minion, thus having its own deathrattle.
