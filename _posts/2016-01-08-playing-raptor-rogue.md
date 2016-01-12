@@ -218,10 +218,10 @@ insufficient burst. Maybe Sneed's could help, but I don't have him :smile:
 
 ##### Face Hunter
 
-Pure Face Hunter is a dice roll. It basically relies on having sticky minions and Defender of Argus in the mulligan.
+Pure Face Hunter is a dice roll. On your part it relies on having sticky minions and Defender of Argus in the mulligan.
 
-But overall, you're disadvantaged since Face Hunter has a ton of damage  and this deck is neither fast enough to race
-nor defensive enough to stall out the game long enough for the Shaman to run out of steam.
+But overall, you're disadvantaged since Face Hunter has a ton of damage and this deck is neither fast enough to race
+nor defensive enough to stall out the game long enough for the Hunter to run out of steam.
 
 ##### Aggro Shaman
 
