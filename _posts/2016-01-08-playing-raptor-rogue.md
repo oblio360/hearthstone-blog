@@ -48,7 +48,8 @@ Cards included:
   out of any Rogue deck; used to clear smaller minion or to add some chip damage when killing a bigger minion.
 * 2x <a href="http://www.hearthpwn.com/cards/92-cold-blood">Cold Blood</a> - Nerubian Egg activator, allows trading up
   minions, racing aggro decks and giving extra reach for lethal.
-* 2x Abusive Sergeant - Nerubian Egg activator, allows trading up minions, racing aggro decks and giving extra reach for
+* 2x <a href="http://www.hearthpwn.com/cards/577-abusive-sergeant">Abusive Sergeant</a> - Nerubian Egg activator, allows
+  trading up minions, racing aggro decks and giving extra reach for
   lethal (the minion form of Cold Blood :smile:).
 * 2x <a href="http://www.hearthpwn.com/cards/382-eviscerate">Eviscerate</a> - Backstab's bigger brother that can also
   hit face; used to clear very threatening small minions or bigger minions or as burst damage when going for lethal.
@@ -89,25 +90,37 @@ Cards included:
 * <a href="http://www.hearthpwn.com/cards/12175-piloted-sky-golem">Piloted Sky Golem</a> - great body, great
   deathrattle, it's probably the best card that was no included in the deck; I favored Sylvanas as Sylvanas is stronger
   against control decks.
-* <a href="http://www.hearthpwn.com/cards/12187-sneeds-old-shredder">Sneed's Old Shredder</a> - big deathrattle, great
-  in a grindy meta; can be used instead of a Sludge Belcher.
+* <a href="http://www.hearthpwn.com/cards/27215-sir-finley-mrrgglton">Sir Finley Mrrgglton</a> - the Rogue hero power is
+  not that useful in this zooish deck after early game so swapping it for a better one is strong.
+* <a href="http://www.hearthpwn.com/cards/27214-brann-bronzebeard">Brann Bronzebeard</a> - there are a lot of
+  battlecries in this deck so Brann is a strong contender; it can either beef up your Argus taunt or give you more reach
+  for lethal.
+* <a href="http://www.hearthpwn.com/cards/498-cairne-bloodhoof">Cairne Bloodhoof</a> - useful against more grindy,
+  control oriented decks.
+* <a href="http://www.hearthpwn.com/cards/525-bloodmage-thalnos">Bloodmage Thalnos</a> - fills almost the same role as
+  Loot Hoarder but provides extra spell power for your nukes; situationally better than Loot Hoarder.
 * <a href="http://www.hearthpwn.com/cards/74-acidic-swamp-ooze">Acidic Swamp Ooze</a> - the dreaded weapon killer, this
   time used by a Rogue that doesn't rely on weapons :smile:; useful for metas where weapons are extremely abundant.
 * <a href="http://www.hearthpwn.com/cards/12227-antique-healbot">Antique Healbot</a> - great in a meta with a lot of
   aggression through spells or hero powers (Hunter, mostly); generally great for leveling as most of the sub-level 10
   decks are very aggressive.
+* <a href="http://www.hearthpwn.com/cards/385-sap">Sap</a> - Sap can be a great choice for a more-tempo oriented
+  play-style.
+* <a href="http://www.hearthpwn.com/cards/12187-sneeds-old-shredder">Sneed's Old Shredder</a> - big deathrattle, great
+  in a grindy meta; can be used instead of a Sludge Belcher.
 
 ## Cards which have been intentionally excluded
 
 * All Rogue weapon buffs and <a href="http://www.hearthpwn.com/cards/244-blade-flurry">Blade Flurry</a> - you live and
   die by your minions, not spells; weapon buffs will slow down this game plan while Blade Flurry without them is useless
   since using it on a naked dagger is too weak.
-
 * <a href="http://www.hearthpwn.com/cards/513-leper-gnome">Leper Gnome</a> - doesn't trade well with anything and this
   is not a pure aggro deck; think of this deck more like Midrange Zoo than Aggro Zoo.
-
 * <a href="http://www.hearthpwn.com/cards/386-harvest-golem">Harvest Golem</a> - the main body doesn't trade up while
   the deathrattle doesn't make up for this weakness.
+* <a href=http://www.hearthpwn.com/cards/7740-baron-rivendare">Baron Rivendare</a> - Baron Rivendare isn't threatening
+  enough when played on its own and the extra proccing of deathrattles doesn't help much as this deck can already fill
+  the board reliably.
 
 ## Game plan
 
