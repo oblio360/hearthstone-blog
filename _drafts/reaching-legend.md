@@ -27,6 +27,7 @@ the game.
 	<li>Keep an eye on your win rate. Either use tracking software or do it old school style, but do it.</li>
 	<li>Stop playing when you're tilting. If you're on a loss streak, just do something else. It's only going to get worse.</li>
 	<li>Play to win. Risk more in match ups which do not favor you.</li>
+	<li>Go for the surprise factor. A strange deck or a strange tech card can help you win games.</li>
 	<li>Be patient. It will probably take hundreds of games to reach legend.</li>
 </ol>
 </div>
@@ -118,6 +119,27 @@ up.
 Of course, if at some point you notice that you're encountering only unfavorable match ups, it's probably time to switch
 decks. This is a judgment call, I generally did it when I noticed I wasn't climbing after a higher number of games
 played (15-20).
+
+{% include inline-image.html alt="Acidic Swamp Ooze" %}
+
+### Go for the surprise factor
+
+Almost all the good players I've seen at some point or another try a strange deck or add a strange tech card in their
+deck. This is because the surprise factor is important in multiplayer games. Predictability is good for your own actions
+(this is why <a href="http://www.hearthpwn.com/cards/12281-ogre-brute">Ogre Brute</a> is a bad card, because you can't
+guarantee what it's going to attack) but it is not good when your opponent can reliably predict your actions. Of course, in
+most games you win you're just going to use your deck's main win condition.
+
+But especially above rank 5, if your deck is popular enough, opponents will find or make decks that will counter that
+a main win condition. So it doesn't hurt to have a plan B.
+
+In my case I just took advantage of the surprise factor of the deck I was playing: Raptor Rogue. Most opponents facing a
+Rogue would be mulliganing for Oil Rogue (the most popular Rogue variety) and would often not have the required tools to
+react to a Rogue that plays more like Zoolock.
+
+If using or creating a brand new deck is not possible (and usually it isn't) then surprising tech cards can work as
+well. <a href="http://www.hearthpwn.com/cards/74-acidic-swamp-ooze">Acidic Swamp Ooze</a> has destroyed many <a
+href="http://www.hearthpwn.com/cards/172-doomhammer">Doomhammer</a> dreams over the years :smile:
 
 ### Be patient
 
