@@ -78,7 +78,7 @@ careful).
 ## <a name="play-to-win">Playing to win</a>
 
 ["Playing to win"](http://www.sirlin.net/articles/playing-to-win) is a really old article by Sirlin which applies to
-basically any competitive multiplayer game. His examples come from fighting games such as StreetFighter but the ideas
+basically any competitive multiplayer game. His examples come from fighting games such as Street Fighter but the ideas
 are valid in any game where people compete.
 
 **TL;DR:**
@@ -104,7 +104,7 @@ about MTG which is also very relevant to Hearthstone.
 **TL;DR:**
 
 * You need to know the strengths and weaknesses of your deck.
-* Back on these strenghts and weaknesses you need to continually assess your role during the game.
+* Back on these strengths and weaknesses you need to continually assess your role during the game.
 * There are 2 main roles: beatdown (aggressor = aggro) and control (defender).
 * These roles vary from game to game and even from turn to turn.
 * Never go in a game thinking that you will only have 1 role all game long.
@@ -485,7 +485,7 @@ Of course, you don't need a full collection to play, but to really enjoy the exp
 And if you are here, then you probably want to improve, so you are competitive, you are "Spike".
  
 Again, courtesy of Sheng, a set of [good budget
-decks](https://www.reddit.com/r/hearthstone/comments/3m6njs/shengs_budget_tgt_decks_for_all_9_classes/).
+decks](https://www.reddit.com/r/hearthstone/comments/41kiq1/budget_league_of_explorers_decks_for_all_9_classes/).
 
 ##### [Go top ↑](#toc)
 
@@ -576,7 +576,7 @@ For example:
 
 Another way to become better is to watch better players. Watch their games and ask yourself after each play:
 
-What would I have done differenty? Why did he play the turn this way? What would have happened 1-2-3 turns from now with
+What would I have done differently? Why did he play the turn this way? What would have happened 1-2-3 turns from now with
 my play and with his play?
 
 **StrifeCro**
