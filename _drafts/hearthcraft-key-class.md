@@ -176,6 +176,8 @@ the hero gets from Savage Roar and a quick win is possible).
 
 ##### [Go top ↑](#toc)
 
+* * *
+
 ## Hunter
 
 <img alt="Unleash the Hounds" src="/images/common/unleash-the-hounds.png" style="float: right;">
@@ -292,6 +294,8 @@ A common saying is: "if Highmane hit your face, you're going to lose". Often tru
 
 ##### [Go top ↑](#toc)
 
+* * *
+
 ## Mage
 
 <img alt="Archmage Antonidas" src="/images/common/archmage-antonidas.png" style="float: right;">
@@ -341,7 +345,64 @@ no removal or you're in a desperate position.
 
 * * *
 
-<img alt="Snowchugger" src="/images/common/snowchugger.png" style="float: right;">
+{% include inline-image.html alt="Flamecannon" %}
+
+#### Flamecannon
+
+Great removal spell for Mages, since coupled with their hero ability, other spells and small minions Flamecannon can
+actually be "targeted": the other targets are removed before Flamecannon is used and the very efficient and powerful
+minion removal spell does its job.
+
+Because it is random it can also hit stealthed minions such as <a
+href="http://www.hearthpwn.com/cards/7730-shade-of-naxxramas">Shade of Naxxramas</a>, surprisingly turning the
+randomness factor in a strong benefit in many situations.
+
+Flamecannon is seen in all Tempo Mage decks as well as most other aggro or midrange Tempo Decks, since it provides
+strong minion removal at a very low mana cost.
+
+* * *
+
+{% include inline-image.html alt="Unstable Portal" %}
+
+#### Unstable Portal
+
+Unstable Portal is a very strange spell: it costs 2 mana and it provides a random minion that costs 3 less mana when
+played. It has a very obvious drawback: the minion created is random. So there are situations when you pay 2 mana to get
+a 1/1 minion. And there are also situations where you pay 2 mana to get a 12 mana minion such as <a
+href="http://www.hearthpwn.com/cards/264-mountain-giant">Mountain Giant</a>, which you might not be able to play.
+
+However, when Unstable Portal does provide a useful minion, that minion might win you the game on its own. Since
+Unstable Portal doesn't cost that much mana and since in a certain percentage of games it just wins the game for you on
+its own, Unstable Portal has found a home in many competitive decks.
+
+This powerful swing factor, coupled with the fact that it is a spell and as a result it benefits from effects such as
+mana cost reduction or proccing of abilities which trigger on spell cast (<a
+href="http://www.hearthpwn.com/cards/263-mana-wyrm">Mana Wyrm</a> and <a
+href="http://www.hearthpwn.com/cards/14445-flamewaker">Flamewaker</a> come to mind), have turned a fun card into a
+staple of competitive decks.
+
+* * *
+
+{% include inline-image.html alt="Mirror Entity" %}
+
+#### Mirror Entity
+
+Probably the most common Mage secret used, Mirror Entity provides either a powerful tempo swing or a deterrent against
+big enemy minions.
+
+Mirror Entity is used successfully in almost all Mage Decks, going from aggro decks to control ones, with an emphasis on
+the more active decks, such as Mech Mage or Tempo Mage.
+
+It does sometimes backfire, such as when the opponent tosses himself a <a
+href="http://www.hearthpwn.com/cards/683-zombie-chow">Zombie Chow</a> into Mirror Entity or even worse, a <a
+href="http://www.hearthpwn.com/cards/467-doomsayer">Doomsayer</a> is used by the opponent to clear the Mage's solid
+board.
+
+Still, Mirror Entity is one of the most very reliable Mage secrets and this continues to make it a very popular Mage card.
+
+* * *
+
+{% include inline-image.html alt="Snowchugger" %}
 
 #### Snowchugger
 
@@ -373,18 +434,38 @@ lead.
 
 * * *
 
-{% include inline-image.html alt="Spellslinger" %}
+### Honorable mentions
 
-#### Spellslinger
 
-Spellslinger
-Kirin Tor Mage
+| Card name                   | Why is it a good card? |
+| --------------------------- | ---------------------- |
+| <a href="http://www.hearthpwn.com/cards/12300-echo-of-medivh">Echo of Medivh</a> | Has created its own, slightly less powerful deck type: Echo Mage. |
+| <a href="http://www.hearthpwn.com/cards/22267-effigy">Effigy</a> | Decent secret used in more value oriented decks and sometimes in Tempo Mage decks. |
+| <a href="http://www.hearthpwn.com/cards/22358-arcane-blast">Arcane Blast</a> | Cheap minion removal used by more aggressive Mage decks. |
+| <a href="http://www.hearthpwn.com/cards/22299-spellslinger">Spellslinger</a> | Decent in Tempo Mage and also a lot of fun. |
+| <a href="http://www.hearthpwn.com/cards/411-kirin-tor-mage">Kirin Tor Mage</a> | Sometimes used in Tempo Mage. |
 
 ##### [Go top ↑](#toc)
 
 ## Paladin
 
-Shielded Minibot
+{% include inline-image.html alt="Shielded Minibot" %}
+
+#### Shielded Minibot
+
+A long time ago Paladin was considered one of the worst classes in Hearthstone. Shielded Minibot has been on of the
+first cards that has turned Uther's fate around.
+
+Shielded Minibot is a sticky 2-drop that trades well against common 2 drops such as <a href="http://www.hearthpwn.com/cards/422-knife-juggler">Knife
+Juggler</a> and can even trade up, trading 1-for-1 with 3 or even 4 drops.
+
+The divine shield also makes it sticky against AOE, making the small bot a real pain the neck to remove from the board.
+
+Shielded Minibot is seem in almost all Paladin decks, going from the very aggressive Face Paladin to Secret Paladin to
+Midrange Paladin and even most Control Paladins.
+
+* * *
+
 Tirion Fordring
 Mysterious Challenger
 Aldor Peacekeeper
