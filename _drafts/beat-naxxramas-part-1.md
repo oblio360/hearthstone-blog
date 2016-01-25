@@ -6,22 +6,32 @@ tags: [ guide ]
 
 ![Curse of Naxxramas](/images/common/curse-of-naxxramas.jpg)
 
-[Curse of Naxxramas](http://hearthstone.gamepedia.com/Curse_of_Naxxramas) is Hearthstone's first adventure, released in
+
+<div class="article-description">
+
+<a href="http://hearthstone.gamepedia.com/Curse_of_Naxxramas">Curse of Naxxramas</a> is Hearthstone's first adventure, released in
 July 2014. Adventures are Hearthstone "mini-expansions" in which the player has to defeat Hearthstone "bosses" (heroes
 with special hero abilities and custom decks which can contain unique cards). For each boss defeated the player receives
 a reward: a card or a pair of cards.  These cards cannot be obtained through crafting, the only way to obtain them is to
 buy the adventure (with cash or gold) and to beat the boss.
-
+<br>
+<br>
 Each adventure has a normal mode and a heroic mode. The normal mode is the one that offers the cards as rewards while
 the heroic mode is much more difficult and has as a reward a special card back. The card back is available once all the
 heroic mode bosses have been defeated.
-
-[TommyJ](https://www.youtube.com/channel/UCSmjrqVod1_sXqFl9AS4fRg) has managed to beat all the bosses from the current
+<br>
+<br>
+<a href="https://www.youtube.com/channel/UCSmjrqVod1_sXqFl9AS4fRg">TommyJ</a> has managed to beat all the bosses from the current
 adventures using only basic cards: cards you start out with and cards you get while leveling up heroes. He has made
 guides for defeating the heroic bosses using decks he created.
-
-With his blessing I'm republishing his guides as I think they're a great resource for newer players. This article
+<br>
+<br>
+With his blessing I'm republishing his guides as I think they're a great resource for newer players, especially since
+the same decks can be used for finishing normal mode (heroic mode is much harder than the normal mode). This article
 contains his first guide, for beating the Arachnid Quarter from the Curse of Naxxramas.
+<br>
+<br>
+</div>
 
 *TommyJ:*
 
