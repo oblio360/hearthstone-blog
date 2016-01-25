@@ -62,3 +62,5 @@ contains his first guide, for beating the Arachnid Quarter from the Curse of Nax
 > (first attempt was with the Shaman deck from Anub but couldn't ditch my cards fast enough so got completely stomped by
 > her hero ability). It's definitely worth mentioning that I didn't life tap against Faerlina; I went with the Warlock
 > because they have cards that will discard others when used such as the Succubus so her hero power was pretty useless.
+
+Stay tuned for part 2!
