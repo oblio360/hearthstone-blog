@@ -402,6 +402,46 @@ Still, Mirror Entity is one of the most very reliable Mage secrets and this cont
 
 * * *
 
+{% include inline-image.html alt="Ice Block" %}
+
+#### Ice Block
+
+Ice Block is one of the few cards in the game that have enabled deck types to appear around it. It is a core card in
+most Control Mage decks as well as in the (in)famous Freeze Mage deck. It makes the Mage immune to damage for a turn
+when the Mage is about to be killed.
+
+This means that the Mage has 1 more turn to do what he/she wants to do. Since there are 2 such secrets in a deck it can
+actually buy 2 turns, on its own, if not destroyed (<a href="http://www.hearthpwn.com/cards/630-flare">Flare</a>) or
+stolen (<a href="http://www.hearthpwn.com/cards/12252-kezan-mystic">Kezan Mystic</a>). Since the counters are so
+precisely targeted, they tend to not be used on ladder that much since they can be dead cards in many other match ups.
+
+As a result, Ice Block frequently does what it should, making it a very reliable Mage secret. It is not used in most
+Aggro or Tempo oriented Mage decks as those decks would rather finish the game quickly than stall the game.
+
+As a warning: don't trigger things which might kill you during your turn (<a
+href="http://www.hearthpwn.com/cards/12361-boom-bot">Boom Bots</a>, for example), since secrets proc on enemy turns.
+This means you might kill yourself :wink:
+
+{% include inline-image.html alt="Ice Barrier" %}
+
+* * *
+
+#### Ice Barrier
+
+A frequent companion to Ice Block, Ice Barrier is the "softer" version. It does not prevent death, outright, but it does
+grant a bit of armor which frequently helps the Mage survive another turn.
+
+Ice Barrier is seen almost as much as Ice Block in Mage decks, but sometimes only 1 copy is used since its effect is not
+as powerful as Ice Block's effect.
+
+Ice Barrier, being a secret, also doesn't trigger on your turn. As a result the same warning about accidentally killing
+yourself on your turn applies. On top of that, Ice Barrier is only activated if the enemy hero or minions hit your face.
+So if the enemy can kill you just with spells, Ice Barrier won't provide any armor and won't save you.
+
+Still, Ice Barrier is quite a popular secret in many Control Mage, Echo Mage and of course Freeze Mage decks.
+
+* * *
+
 {% include inline-image.html alt="Snowchugger" %}
 
 #### Snowchugger
@@ -434,16 +474,35 @@ lead.
 
 * * *
 
+
+{% include inline-image.html alt="Blizzard" %}
+
+#### Blizzard
+
+<a href="http://www.hearthpwn.com/cards/44-flamestrike">Flamestrike's</a> baby brother. It doesn't do as much damage as
+Flamestrike, but this drawback is partially compensated by the fact that Blizzard freezes enemy minions, preventing them
+from attacking for 1 turn.
+
+This makes Blizzard a staple of Freeze Mage and a fan-favorite in most Control Mage decks. Grinder Mages, Echo Mages and
+all Mages which don't fit in the Aggro or Tempo categories use it. Sometimes it is even seen in more aggressive decks as
+it allows the Mage to buy a bit more time to be able to race the opponent effectively.
+
+* * *
+
 ### Honorable mentions
 
 
 | Card name                   | Why is it a good card? |
 | --------------------------- | ---------------------- |
+| <a href="http://www.hearthpwn.com/cards/188-ice-lance">Ice Lance</a> | Key card in Freeze Mage, provides a ton of damage when unleashing the combo. |
+| <a href="http://www.hearthpwn.com/cards/496-pyroblast">Pyroblast</a> | Used as a finisher in Freeze Mage or in decks lacking Antonidas. |
+| <a href="http://www.hearthpwn.com/cards/531-counterspell">Counterspell</a> | Used primarily by Tempo decks to prevent key removal or AOE spells. |
 | <a href="http://www.hearthpwn.com/cards/12300-echo-of-medivh">Echo of Medivh</a> | Has created its own, slightly less powerful deck type: Echo Mage. |
 | <a href="http://www.hearthpwn.com/cards/22267-effigy">Effigy</a> | Decent secret used in more value oriented decks and sometimes in Tempo Mage decks. |
-| <a href="http://www.hearthpwn.com/cards/22358-arcane-blast">Arcane Blast</a> | Cheap minion removal used by more aggressive Mage decks. |
+| <a href="http://www.hearthpwn.com/cards/22358-arcane-blast">Arcane Blast</a> | Cheap minion removal used by more aggressive Mage decks. |\
 | <a href="http://www.hearthpwn.com/cards/22299-spellslinger">Spellslinger</a> | Decent in Tempo Mage and also a lot of fun. |
 | <a href="http://www.hearthpwn.com/cards/411-kirin-tor-mage">Kirin Tor Mage</a> | Sometimes used in Tempo Mage. |
+| <a href="http://www.hearthpwn.com/cards/26-cone-of-cold">Cone of Cold</a> | Blizzard Jr. is sometimes used by Freeze Mage when the meta is super aggressive. |
 
 ##### [Go top ↑](#toc)
 

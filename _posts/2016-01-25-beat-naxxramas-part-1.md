@@ -44,13 +44,13 @@ contains his first guide, for beating the Arachnid Quarter from the Curse of Nax
 > including the cards that you can get by beating the quarter on normal - I didn't use any of them).
 
 > ### Heroic Anub'Rekhan:
-> <iframe width="560" height="315" src="https://www.youtube.com/embed/DtKsT7jEcBM" frameborder="0" allowfullscreen></iframe>
+> <iframe width="100%" height="315" src="https://www.youtube.com/embed/DtKsT7jEcBM" frameborder="0" allowfullscreen></iframe>
 
 > ### Heroic Grand Widow Faerlina
-> <iframe width="560" height="315" src="https://www.youtube.com/embed/LvIJqZtRKlg" frameborder="0" allowfullscreen></iframe>
+> <iframe width="100%" height="315" src="https://www.youtube.com/embed/LvIJqZtRKlg" frameborder="0" allowfullscreen></iframe>
 
 > ### Heroic Maexxna
-> <iframe width="560" height="315" src="https://www.youtube.com/embed/DtKsT7jEcBM" frameborder="0" allowfullscreen></iframe>
+> <iframe width="100%" height="315" src="https://www.youtube.com/embed/DtKsT7jEcBM" frameborder="0" allowfullscreen></iframe>
 
 > For Anub'Rekhan, I used a Shaman deck, for Grand Widow Faerlina I used a Warlock deck and for Maexxna I used a Warrior
 > deck.
