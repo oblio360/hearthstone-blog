@@ -449,6 +449,11 @@ a.license:hover, a.license:focus {
     }
 }
 
+.excerpt {
+     overflow: hidden; 
+     max-height: 600px;
+}
+
 .about {
     display: none;
 }
