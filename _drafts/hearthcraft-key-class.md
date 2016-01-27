@@ -1,6 +1,6 @@
 --- 
 layout: post 
-title: "HearthCraft Key Cards: class cards"
+title: "Crafting guide: Druid, Hunter and Mage cards"
 tags: [ guide, crafting ]
 ---
 
