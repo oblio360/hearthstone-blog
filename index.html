@@ -16,9 +16,11 @@ title: Home
 
     <span class="post-date">{{ post.date | date_to_string }}</span>
 
-    {{ post.content }}
+    <div style="overflow: hidden; max-height: 600px;">{{ post.content | truncatewords: 300 }}</div>
 
-    <a href="{{ post.url }}#comments">See comments</a>
+   <br>
+
+   <a href="{{ post.url }}">... Read more</a> 
   </div>
   {% endfor %}
 </div>
