@@ -393,22 +393,27 @@ a.license:hover, a.license:focus {
     padding-top: 5px;
     padding-bottom: 5px;
 }
-
-.adslot_1 {
-    width: 320px;
-    height: 100px;
-}
-
-@media (min-width: 768px) and (max-width: 1199px) {
-    .adslot_1 {
-        width: 468px;
-        height: 60px;
+@media (min-width: 640px) and (max-width: 767px) {
+    .ads {
+        max-width: 370px;
     }
 }
+
+@media (min-width: 768px) and (max-width: 959px) {
+    .ads {
+        max-width: 470px;
+    }
+}
+
+@media (min-width: 960px) and (max-width: 1199px) {
+    .ads {
+        max-width: 580px;
+    }
+}
+
 @media (min-width: 1200px) {
-    .adslot_1 {
-        width: 728px;
-        height: 90px;
+    .ads {
+        max-width: 80ch;
     }
 }
 
