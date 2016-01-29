@@ -27,7 +27,7 @@ href="http://www.hearthpwn.com/cards/12182-dr-boom">Dr. Boom</a> isn't here), th
 
 * [Best neutral common cards to craft]({% post_url 2015-11-19-hearthcraft-key-commons %})
 
-Now that you've finished the articles about the neutral cards and are wondering which Druid cards you should craft
+Now that you've finished the articles about the neutral cards and are wondering which Hunter cards you should craft
 first, read on :wink:
 
 * * *
