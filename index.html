@@ -16,11 +16,11 @@ title: Home
 
     <span class="post-date">{{ post.date | date_to_string }}</span>
 
-    <div class="excerpt">{{ post.content | truncatewords: 300 }}</div>
+    <div class="excerpt">{{ post.content | truncatewords: 200 }}</div>
 
    <br>
 
-   <a href="{{ post.url }}">... Read more</a> 
+   <a href="{{ post.url }}">... Read more</a>
   </div>
   {% endfor %}
 </div>
