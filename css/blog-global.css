@@ -275,12 +275,19 @@ tbody tr:nth-child(odd) td, tbody tr:nth-child(odd) th {
 }
 
 .menu-container {
-    text-align: center;
     font-size: 1.2rem;
-    padding: 20px;
-    margin-top: 20px;
-    margin-bottom: 20px;
+    text-align: center;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
     box-shadow: 0 1px 3px #505050;
+}
+@media(min-width: 640px) {
+    .menu-container {
+        padding: 20px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
 }
 
 .menu-separator {
