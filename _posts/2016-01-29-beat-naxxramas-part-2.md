@@ -12,7 +12,7 @@ And now we continue the Naxxramas series with the second part, a guide explainin
 the Plague Quarter, using only basic cards.
 <br>
 <br>
-The first part can be found here, if you'd like to read it first:<a
+The first part can be found here, if you'd like to read it first: <a
 href="http://hearthstone.oblio360.com/2016/01/25/beat-naxxramas-part-1/">How to beat Naxxramas using basic cards (part
 1)</a>.
 <br>
