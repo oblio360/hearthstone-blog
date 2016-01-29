@@ -146,12 +146,21 @@
 }
 
 /* Pagination items can be `span`s or `a`s */
-.pagination-item {
+.pagination-item-left {
   display: block;
+  float: left;
+  width: 50%;
   padding: 1rem;
   border: 1px solid #eee;
 }
-.pagination-item:first-child {
+.pagination-item-right {
+  display: block;
+  float: right;
+  width: 50%;
+  padding: 1rem;
+  border: 1px solid #eee;
+}
+.pagination-item-left:first-child, .pagination-item-right:first-child {
   margin-bottom: -1px;
 }
 
