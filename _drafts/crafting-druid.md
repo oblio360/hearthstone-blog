@@ -6,16 +6,22 @@ tags: [ guide, crafting ]
 
 {% include inline-image.html alt="Malfurion Stormrage" %}
 
-This article is a part of the *Hearthcraft* series of article, where I present the best cards to craft if you want to
-have a rich card collection that will allow you to create as many powerful decks with a minimal investment of [cash or
-time]({% post_url 15-09-2015-cash-time-gold-dust %}).
-
-I'll be presenting the cards which I think are the most efficient Druid cards. When I say "efficient" I mean that these
-cards have a great ratio of **power level** (how strong the cards actually are) coupled **flexibility** (if they can be used in
-multiple decks and deck types) to **cost** (how much $$$ or time or gold/arcane dust you have to spend on them).
-
-Druid cards have a very clear theme: card flexibility. Most of the Druid cards can be used in one of two ways. Each
-option individually is not very strong but once they are coupled in the same card they become quite strong
+<div class="article-description">
+    This article is a part of the <i>Hearthcraft</i> series of article, where I present the best cards to craft if you
+    want to have a rich card collection that will allow you to create as many powerful decks with a minimal investment
+    of <a href="http://hearthstone.oblio360.com/2015/09/15/cash-time-gold-dust/">cash or
+    time</a>.
+    <br>
+    <br>
+    I'll be presenting the cards which I think are the most efficient Druid cards. When I say "efficient" I mean that
+    these cards have a great ratio of <b>power level</b> (how strong the cards actually are) coupled <b>flexibility</b>
+    (if they can be used in multiple decks and deck types) to <b>cost</b> (how much $$$ or time or gold/arcane dust you
+    have to spend on them).
+    <br>
+    <br>
+    Druid cards have a very clear theme: flexibility. Most of the Druid cards can be used in one of two ways. Each
+    option individually is not very strong but once they are coupled in the same card they become quite strong.
+</div>
 
 If you're looking for neutral cards (for example you might be wondering why <a
 href="http://www.hearthpwn.com/cards/12182-dr-boom">Dr. Boom</a> isn't here), then you should head over here:
